@@ -1,0 +1,345 @@
+{
+ "date": "2026-11-08",
+ "headline_match": {
+  "away": "برشلونة",
+  "awayCode": "BAR",
+  "awayColor": "#A50044",
+  "awayNote": "الأول · 30 نقطة",
+  "home": "أتلتيكو",
+  "homeCode": "ATM",
+  "homeColor": "#C8102E",
+  "homeNote": "التاني · 28 نقطة",
+  "label": "قمة الليلة · الدوري الإسباني",
+  "probs": {
+   "away": 51.7,
+   "draw": 22,
+   "home": 26.3
+  },
+  "time": "10:00 م"
+ },
+ "label": "الأحد 8 نوفمبر",
+ "news": [
+  {
+   "color": "#DA291C",
+   "comp": "الدوري الإنجليزي",
+   "id": "mun-relegation-40y",
+   "source": "ESPN",
+   "summary": "مانشستر يونايتد قضى يوم في آخر 3 مراكز في الوقت ده من الموسم لأول مرة من أربع عقود. ESPN بتقول إن النادي قدام قرار صعب: يكمل مع المدرب مايكل كاريك ولا يغيّره، وماتش النهارده قدام أستون فيلا ممكن يحسم الموضوع.",
+   "time": "5:19 م",
+   "title": "يونايتد في منطقة الهبوط لأول مرة من 40 سنة",
+   "url": "https://www.espn.com/soccer/story/_/id/50410672/man-united-premier-league-relegation-zone"
+  },
+  {
+   "color": "#FEBE10",
+   "comp": "الدوري الإسباني",
+   "id": "rma-mourinho-8th",
+   "source": "ESPN",
+   "summary": "ريال مدريد كسب فالنسيا 3–0 امبارح، وده تامن فوز على التوالي. مورينيو قال إن الجو في غرفة الملابس حلو، وهزّر إن اللاعيبة احتفلوا بموسيقى فظيعة.",
+   "time": "5:19 م",
+   "title": "مورينيو بعد تامن فوز ورا بعض: غرفة الملابس مبسوطة",
+   "url": "https://www.espn.com/soccer/story/_/id/50414787/jose-mourinho-real-madrid-valencia-music-laliga"
+  },
+  {
+   "color": "#DB0007",
+   "comp": "الدوري الإنجليزي",
+   "id": "ars-var-penalty",
+   "source": "ESPN",
+   "summary": "تحليل الفار بيقول إن ضربة الجزاء اللي اتلغت لأرسنال قدام هال اتلغت بتطبيق غلط للقاعدة، وده نفس الموقف اللي أرتيتا وصفه بالمحيّر.",
+   "time": "2:56 م",
+   "title": "حَكَم ESPN: أرسنال اتظلم في ضربة جزاء هال",
+   "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology"
+  },
+  {
+   "color": "#DB0007",
+   "comp": "الدوري الإنجليزي",
+   "id": "ars-title-spark",
+   "source": "ESPN",
+   "summary": "هجوم أرسنال كان ناقصه رأس حربة واضح قدام هال، لكن جون أوديجارد خطف الفوز، والتحليل شايف إن المنافسين لازم يقلقوا.",
+   "time": "2:56 م",
+   "title": "لو هجوم أرسنال اتظبط ممكن يهرب بالدوري",
+   "url": "https://www.espn.com/soccer/story/_/id/50409867/if-arsenal-find-attacking-spark-run-away-premier-league"
+  },
+  {
+   "color": "#A50044",
+   "comp": "الدوري الإسباني",
+   "id": "bar-gordon",
+   "source": "ESPN",
+   "summary": "جوردون ساب الدوري الإنجليزي لبرشلونة عشان يلاقي التقدير، وبقى بسرعة من اللاعيبة المحبوبة في الكامب نو ولاعب مهم مع منتخب إنجلترا.",
+   "time": "3:43 م",
+   "title": "أنتوني جوردون كسب الاحترام اللي كان بيدور عليه في برشلونة",
+   "url": "https://www.espn.com/soccer/story/_/id/50377434/anthony-gordon-barcelona-england-premier-league-respect"
+  },
+  {
+   "color": "#F7B5CD",
+   "comp": "باقي العالم",
+   "id": "messi-golden-boot",
+   "source": "ESPN",
+   "summary": "ميسي خلّص الموسم العادي بـ 26 جون مع إنتر ميامي، وبقى أول لاعب في تاريخ الدوري الأمريكي يكسب لقب الهداف مرتين متتاليتين.",
+   "time": "5:19 م",
+   "title": "ميسي أول هداف للدوري الأمريكي موسمين ورا بعض",
+   "url": "https://www.espn.com/soccer/story/_/id/50411686/lionel-messi-mls-golden-boot-2026-winner-inter-miami"
+  },
+  {
+   "color": "#4A5670",
+   "comp": "باقي العالم",
+   "id": "boca-rosario-title",
+   "source": "ESPN",
+   "summary": "لاعيبة وجمهور روزاريو سنترال احتفلوا باللقب، وبعدها عرفوا إن جون متأخر لبوكا جونيورز خلّى البطولة تروح لبوكا.",
+   "time": "5:19 م",
+   "title": "روزاريو احتفل بالبطولة دقايق وبوكا خطفها",
+   "url": "https://www.espn.com/soccer/story/_/id/50419937/rosario-central-boca-juniors-title-argentina"
+  },
+  {
+   "color": "#DA291C",
+   "comp": "سوق الانتقالات",
+   "id": "mun-nagida",
+   "source": "ESPN",
+   "summary": "مانشستر يونايتد بيراقب الظهير الشمال ماهامادو ناجيدا لاعب رين الفرنسي.",
+   "time": "5:51 م",
+   "title": "يونايتد بيتابع ناجيدا ظهير رين",
+   "url": "https://www.espn.com/soccer/story/_/id/50418356/transfer-rumors-news-man-united-rennes-defender-mahamadou-nagida"
+  }
+ ],
+ "pressers": [
+  {
+   "coach": "هانز فليك",
+   "color": "#A50044",
+   "id": "2026-11-08-flick-pre-atm",
+   "initials": "HF",
+   "insight": "برشلونة جاي من فوز نضيف: 3 أهداف من 15 تسديدة، وفيلا سدد على المرمى مرة واحدة بس.",
+   "match": "ضد أتلتيكو الليلة",
+   "points": [
+    "كل ماتش مهم جداً والفروق بين الفرق الكبيرة صغيرة، بس لسه المشوار طويل.",
+    "خسارة آخر مواجهتين قدام أتلتيكو ماضي ومش شاغله.",
+    "رودري غايب كام أسبوع، وإريك جارسيا وكريستنسن رجعوا.",
+    "لسه ماقررش مين جنب بيدري: دي يونج ولا مارك برنال."
+   ],
+   "sources": [
+    {
+     "name": "Goal",
+     "url": "https://www.goal.com/en/news/hansi-flick-i-m-happy-to-see-frenkie-de-jong-back-but-we-still-need-to-talk-about-this/blt5d2f2e307b9a8a73"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://sports.yahoo.com/articles/flick-stresses-barcelona-long-way-144828104.html"
+    }
+   ],
+   "stats": {
+    "label": "آخر ماتش: برشلونة 3–0 أستون فيلا",
+    "rows": [
+     [
+      "الاستحواذ",
+      "63%",
+      "37%"
+     ],
+     [
+      "التسديدات",
+      "15",
+      "8"
+     ],
+     [
+      "على المرمى",
+      "7",
+      "1"
+     ],
+     [
+      "ركنيات",
+      "4",
+      "8"
+     ],
+     [
+      "أخطاء",
+      "14",
+      "9"
+     ]
+    ],
+    "teamA": "برشلونة",
+    "teamB": "فيلا"
+   },
+   "team": "برشلونة",
+   "when": "قبل الماتش"
+  },
+  {
+   "coach": "دييجو سيميوني",
+   "color": "#C8102E",
+   "id": "2026-11-08-simeone-pre-bar",
+   "initials": "DS",
+   "insight": "المعاناة اللي بيتكلم عنها حصلت فعلاً قدام بايرن: اتسدد عليه 19 مرة مقابل 7 بس.",
+   "match": "ضد برشلونة الليلة",
+   "points": [
+    "برشلونة يمكن يكون الأفضل، وعنده موهبة ضخمة من الوسط لقدام.",
+    "هياخد الماتش للمناطق اللي يقدر يأذي فيها برشلونة، ومتوقع معاناة في جزء كبير منه.",
+    "ألفاريز جاهز تماماً.",
+    "مركز رافينيا هو أكبر فرق في برشلونة عن الموسم اللي فات."
+   ],
+   "sources": [
+    {
+     "name": "Yahoo Sports",
+     "url": "https://sports.yahoo.com/articles/diego-simeone-previews-clash-possibly-211808250.html"
+    },
+    {
+     "name": "Goal",
+     "url": "https://www.goal.com/en/news/simeone-alvarez-is-ready-for-the-barcelona-challenge-and-i-will-not-compare-flick-to-guardiola/blte13c72728c8f7379"
+    }
+   ],
+   "stats": {
+    "label": "آخر ماتش: أتلتيكو 0–2 بايرن",
+    "rows": [
+     [
+      "الاستحواذ",
+      "43%",
+      "57%"
+     ],
+     [
+      "التسديدات",
+      "7",
+      "19"
+     ],
+     [
+      "على المرمى",
+      "3",
+      "6"
+     ],
+     [
+      "ركنيات",
+      "4",
+      "4"
+     ],
+     [
+      "أخطاء",
+      "13",
+      "3"
+     ]
+    ],
+    "teamA": "أتلتيكو",
+    "teamB": "بايرن"
+   },
+   "team": "أتلتيكو مدريد",
+   "when": "قبل الماتش"
+  },
+  {
+   "coach": "ميكيل أرتيتا",
+   "color": "#DB0007",
+   "id": "2026-11-07-arteta-post-hul",
+   "initials": "MA",
+   "insight": "جون واحد من 19 تسديدة (تحويل حوالي 5%)، وحارس هال صد 8 كرات.",
+   "match": "1–0 هال سيتي",
+   "points": [
+    "مبسوط إنه داخل التوقف الدولي بفوز، وشايف أرسنال كان الأفضل.",
+    "الفريق محتاج يبقى أكفأ وأكثر واقعية قدام المرمى.",
+    "ضربة الجزاء اللي اتلغت بسبب أوفسايد هافرتز موقف محيّر.",
+    "ساكا غايب لأسابيع بإصابة في الفخذ."
+   ],
+   "sources": [
+    {
+     "name": "AllFootball",
+     "url": "https://www.allfootballapp.com/articles/5881736-arteta-i-need-clarity-what-takes"
+    },
+    {
+     "name": "dave.sport",
+     "url": "https://dave.sport/news/mikel-arteta-press-conference-hull-november-2026/"
+    }
+   ],
+   "stats": {
+    "label": "إحصائيات الماتش",
+    "rows": [
+     [
+      "الاستحواذ",
+      "67%",
+      "33%"
+     ],
+     [
+      "التسديدات",
+      "19",
+      "6"
+     ],
+     [
+      "على المرمى",
+      "9",
+      "2"
+     ],
+     [
+      "ركنيات",
+      "7",
+      "4"
+     ],
+     [
+      "أخطاء",
+      "6",
+      "15"
+     ]
+    ],
+    "teamA": "أرسنال",
+    "teamB": "هال"
+   },
+   "team": "أرسنال",
+   "when": "بعد الماتش"
+  }
+ ],
+ "results": [
+  {
+   "as": 3,
+   "away": "ليفربول",
+   "comp": "الدوري الإنجليزي · الجولة 10",
+   "home": "كريستال بالاس",
+   "hs": 1,
+   "status": "final"
+  },
+  {
+   "as": 0,
+   "away": "تشيلسي",
+   "comp": "الدوري الإنجليزي · الجولة 10",
+   "home": "سندرلاند",
+   "hs": 1,
+   "status": "final"
+  },
+  {
+   "as": 0,
+   "away": "برينتفورد",
+   "comp": "الدوري الإنجليزي · الجولة 10",
+   "home": "برايتون",
+   "hs": 2,
+   "status": "final"
+  },
+  {
+   "as": 2,
+   "away": "بورنموث",
+   "comp": "الدوري الإنجليزي · الجولة 10",
+   "home": "إبسويتش",
+   "hs": 1,
+   "status": "final"
+  },
+  {
+   "away": "أستون فيلا",
+   "comp": "الدوري الإنجليزي · الجولة 10",
+   "home": "مانشستر يونايتد",
+   "status": "live"
+  },
+  {
+   "away": "برشلونة",
+   "comp": "الدوري الإسباني · الجولة 12",
+   "home": "أتلتيكو مدريد",
+   "status": "scheduled",
+   "time": "10:00 م"
+  }
+ ],
+ "short": "الأحد 8",
+ "standings": [
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "pts": 30,
+     "team": "برشلونة"
+    },
+    {
+     "pos": 2,
+     "pts": 28,
+     "team": "أتلتيكو مدريد"
+    }
+   ]
+  }
+ ],
+ "updatedLabel": "الأحد 7:05 م"
+}

@@ -1,2 +1,8 @@
 # kora-data
-football application
+
+بيانات تطبيق "كورة اليوم": ملخص الأخبار والمؤتمرات الصحفية والنتايج.
+
+- `index.json`: قايمة آخر 7 أيام متاحة.
+- `days/YYYY-MM-DD.json`: بيانات كل يوم (news, pressers, results, standings, headline_match).
+
+الملفات دي بتتحدث تلقائي من المهام المجدولة. الأخبار ملخصة بكلامنا مع لينك للمصدر الأصلي.
