@@ -1,0 +1,104 @@
+{
+ "updated": "2026-11-10T01:54:09+02:00",
+ "updatedLabel": "التلات 1:54 ص",
+ "items": [
+  {
+   "id": "raphinha-renewal-bar",
+   "player": "رافينيا",
+   "position": "جناح",
+   "age": 29,
+   "from": "برشلونة",
+   "fromColor": "#A50044",
+   "to": "برشلونة (تجديد)",
+   "toColor": "#004D98",
+   "fee": "",
+   "status": "official",
+   "summary": "برشلونة أعلن رسمياً تجديد عقد رافينيا لحد 30 يونيو 2030. البرازيلي بقى كابتن الفريق وده بيأكد إنه من أعمدة المشروع. النادي ما أعلنش تفاصيل الراتب أو الشرط الجزائي.",
+   "timeline": [
+    {
+     "date": "5 نوفمبر",
+     "text": "البيان الرسمي: رافينيا مضى لحد 2030 وهو كابتن الفريق"
+    }
+   ],
+   "sources": [
+    {
+     "name": "FC Barcelona (البيان الرسمي عبر Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/official-raphinha-extends-barcelona-contract-120900530.html"
+    }
+   ],
+   "updatedLabel": "5 نوفمبر"
+  },
+  {
+   "id": "guler-renewal-rma",
+   "player": "أردا جولر",
+   "position": "وسط هجومي",
+   "age": 21,
+   "from": "ريال مدريد",
+   "fromColor": "#FEBE10",
+   "to": "ريال مدريد (تجديد)",
+   "toColor": "#00529F",
+   "fee": "",
+   "status": "advanced",
+   "summary": "حسب فابريزيو رومانو، جولر مضى فعلاً على عقد جديد مع ريال مدريد لحد يونيو 2032، والاتفاق كان اتقفل من سبتمبر. الورق اتمضى وفاضل بس الإعلان الرسمي من النادي. جولر أساسي مع مورينيو الموسم ده.",
+   "timeline": [
+    {
+     "date": "سبتمبر",
+     "text": "اتفاق مبدئي على التجديد"
+    },
+    {
+     "date": "23 أكتوبر",
+     "text": "رومانو: جولر مضى العقد لحد 2032"
+    },
+    {
+     "date": "8 نوفمبر",
+     "text": "لسه مستنيين الإعلان الرسمي من ريال مدريد"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2113316213732651157"
+    }
+   ],
+   "updatedLabel": "8 نوفمبر"
+  },
+  {
+   "id": "gabriel-new-rma",
+   "player": "جي جي جابرييل",
+   "position": "مهاجم",
+   "age": 16,
+   "from": "مانشستر يونايتد",
+   "fromColor": "#DA291C",
+   "to": "ريال مدريد",
+   "toColor": "#FEBE10",
+   "fee": "",
+   "status": "advanced",
+   "summary": "الموهبة الصغيرة طلب يمشي من يونايتد في سبتمبر واليونايتد رفض. رومانو بيقول الاتفاق الشفهي مع ريال مدريد قرب يكمل وإن الصفقة هتحصل، وأورنستين قال إنه متوقع يمضي لمدريد في يناير بعقد طويل حسب لوائح فيفا. برشلونة وPSG وبايرن وتشيلسي كلموا وكيله بس مدريد الأقرب. صحيفة Sport قدّرت التكلفة بحوالي 10 مليون يورو.",
+   "timeline": [
+    {
+     "date": "سبتمبر",
+     "text": "جابرييل طلب فسخ تسجيله مع يونايتد والنادي رفض"
+    },
+    {
+     "date": "17 أكتوبر",
+     "text": "Sport: مدريد وبرشلونة الأقرب، ومدريد عرضه أعلى"
+    },
+    {
+     "date": "6 نوفمبر",
+     "text": "رومانو: الاتفاق الشفهي قرب، وأورنستين: التوقيع متوقع في يناير"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fabrizio Romano / David Ornstein (عبر Football365)",
+     "url": "https://www.football365.com/news/man-utd-transfer-news-january-here-we-go-coming-jj-gabriel-fabrizio-romano"
+    },
+    {
+     "name": "Sport (عبر Football365)",
+     "url": "https://www.football365.com/news/jj-gabriel-real-madrid-decide-accepting-terms-sign-man-utd-prodigy-announcement-imminent"
+    }
+   ],
+   "updatedLabel": "6 نوفمبر"
+  }
+ ]
+}
