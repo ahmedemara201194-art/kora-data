@@ -1,0 +1,159 @@
+{
+ "date": "2026-11-10",
+ "label": "التلات 10 نوفمبر",
+ "short": "التلات 10",
+ "pressers": [],
+ "news": [
+  {
+   "id": "atm-bar-fermin",
+   "comp": "الدوري الإسباني",
+   "color": "#A50044",
+   "title": "فيرمين لوبيز بيقلب الماتش وبرشلونة يكسب أتلتيكو في ملعبه",
+   "summary": "جوليانو سيميوني جاب هدف لأتلتيكو بدري، بس فيرمين لوبيز عادل قبل الاستراحة وجاب هدف الفوز في الدقيقة 66. برشلونة رجع يبعد بفارق 3 نقط عن ريال مدريد، وسيميوني قال إن جوليان ألفاريز محتاج وقت يرجع لمستواه.",
+   "source": "ESPN",
+   "time": "12:13 ص",
+   "url": "https://www.espn.com/soccer/report/_/gameId/401882816"
+  },
+  {
+   "id": "yamal-knee-spain",
+   "comp": "الدوري الإسباني",
+   "color": "#A50044",
+   "title": "لامين يامال برا ماتش إسبانيا والتشيك",
+   "summary": "يامال حس بوجع في ركبته بعد ماتش أتلتيكو، ومنتخب إسبانيا قرر يريّحه احتياطي عشان الإصابة متزيدش، فهيغيب عن ماتش التشيك يوم الخميس.",
+   "source": "AfricaSoccer",
+   "time": "الاتنين",
+   "url": "https://africasoccer.com/lamine-yamal-to-miss-spains-vs-czechia-clash/"
+  },
+  {
+   "id": "mun-avl-4-4",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "يونايتد يتعادل 4–4 مع فيلا بهدف في الدقيقة 96",
+   "summary": "فيلا كان متقدم بفرق هدفين مرتين، ويونايتد رجع في الآخر وباتريك دورجو عادل برأسية في الوقت بدل الضايع. النقطة مش كفاية تطلّع يونايتد من منطقة الهبوط قبل فترة التوقف الدولي.",
+   "source": "Sky Sports",
+   "time": "الأحد",
+   "url": "https://www.skysports.com/football/news/13593226/man-utd-4-4-aston-villa-patrick-dorgu-levels-in-the-96th-minute-as-united-come-from-two-down-twice-to-earn-incredible-draw"
+  },
+  {
+   "id": "carrick-future",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "مستقبل كاريك مع يونايتد لسه معلّق",
+   "summary": "Sky بتقول إن الإدارة هتراجع كل حاجة بعد التوقف الدولي، ويونايتد كسب ماتش واحد بس من أول 11 في الدوري وده أسوأ بداية ليه في البريميرليج. لو مشي، من الأسماء المطروحة ناجلسمان وإيدي هاو وهورتسلر.",
+   "source": "Sky Sports",
+   "time": "5:35 م",
+   "url": "https://www.skysports.com/football/news/13610134/manchester-united-the-key-questions-with-michael-carricks-future-still-up-in-the-air-at-old-trafford"
+  },
+  {
+   "id": "vvd-netherlands-out",
+   "comp": "الدوري الإنجليزي",
+   "color": "#C8102E",
+   "title": "فان دايك برا ماتشات هولندا",
+   "summary": "الاتحاد الهولندي قال إن فان دايك مش جاهز لماتشات اليونان وألمانيا في دوري الأمم، ومفيش بديل هيتضم. ليفربول هيتابع حالته قبل ماتش يونايتد الجاي في أنفيلد.",
+   "source": "Yahoo Sports",
+   "time": "12:03 ص",
+   "url": "https://sports.yahoo.com/articles/netherlands-injury-liverpool-captain-virgil-220346283.html"
+  },
+  {
+   "id": "guehi-england-burn",
+   "comp": "باقي العالم",
+   "color": "#6CABDD",
+   "title": "جيهي يخرج من معسكر إنجلترا ودان بيرن مكانه",
+   "summary": "مدافع مانشستر سيتي مارك جيهي اتسحب من منتخب إنجلترا بسبب إصابة بعد ما خرج بين الشوطين قدام نوتنجهام فورست، وهيفضل مع ناديه. دان بيرن مدافع نيوكاسل انضم للمعسكر بداله.",
+   "source": "England Football",
+   "time": "1:45 م",
+   "url": "https://www.englandfootball.com/articles/2026/Nov/09/england-mens-squads-updates-november-international-window-2026"
+  },
+  {
+   "id": "fifpro-xi-2026",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "تشكيلة FIFPRO لـ2026: ميسي ويامال جوه وكين برا",
+   "summary": "التشكيلة فيها رايا وكوبارسي وبيلينجهام ورودري ومبابي ويامال وهالاند وميسي. المفاجأة إن هاري كين الفايز بالكورة الدهبية مادخلش، وده أول مرة تحصل من 2005.",
+   "source": "Sports Illustrated",
+   "time": "6:23 م",
+   "url": "https://www.si.com/soccer/fifpro-world-xi-2026-full-winners-harry-kane-decision"
+  },
+  {
+   "id": "mourinho-coach-month",
+   "comp": "الدوري الإسباني",
+   "color": "#FEBE10",
+   "title": "مورينيو أحسن مدرب في الليجا لشهر أكتوبر",
+   "summary": "مدرب ريال مدريد كسب الجايزة قدام سيميوني وماتاراتسو، بعد ما الفريق كسب 8 ماتشات ورا بعض بين فترتين التوقف الدولي.",
+   "source": "Yahoo Sports",
+   "time": "11:35 م",
+   "url": "https://sports.yahoo.com/articles/official-real-madrid-boss-mourinho-213500268.html"
+  }
+ ],
+ "results": [
+  {
+   "comp": "الدوري الإنجليزي",
+   "home": "مانشستر يونايتد",
+   "away": "أستون فيلا",
+   "hs": 4,
+   "as": 4,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 12",
+   "home": "أتلتيكو مدريد",
+   "away": "برشلونة",
+   "hs": 1,
+   "as": 2,
+   "status": "final"
+  }
+ ],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 27
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 21
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 26
+    }
+   ]
+  }
+ ],
+ "updatedLabel": "التلات 1:23 ص"
+}
