@@ -25,24 +25,34 @@
    "url": "https://africasoccer.com/lamine-yamal-to-miss-spains-vs-czechia-clash/"
   },
   {
-   "id": "mun-avl-4-4",
-   "comp": "الدوري الإنجليزي",
-   "color": "#DA291C",
-   "title": "يونايتد يتعادل 4–4 مع فيلا بهدف في الدقيقة 96",
-   "summary": "فيلا كان متقدم بفرق هدفين مرتين، ويونايتد رجع في الآخر وباتريك دورجو عادل برأسية في الوقت بدل الضايع. النقطة مش كفاية تطلّع يونايتد من منطقة الهبوط قبل فترة التوقف الدولي.",
-   "source": "Sky Sports",
-   "time": "الأحد",
-   "url": "https://www.skysports.com/football/news/13593226/man-utd-4-4-aston-villa-patrick-dorgu-levels-in-the-96th-minute-as-united-come-from-two-down-twice-to-earn-incredible-draw"
-  },
-  {
    "id": "carrick-future",
    "comp": "الدوري الإنجليزي",
    "color": "#DA291C",
-   "title": "مستقبل كاريك مع يونايتد لسه معلّق",
-   "summary": "Sky بتقول إن الإدارة هتراجع كل حاجة بعد التوقف الدولي، ويونايتد كسب ماتش واحد بس من أول 11 في الدوري وده أسوأ بداية ليه في البريميرليج. لو مشي، من الأسماء المطروحة ناجلسمان وإيدي هاو وهورتسلر.",
+   "title": "مستقبل كاريك في خطر أكتر بعد 4–4 مع فيلا",
+   "summary": "Sky بتقول إن مكان كاريك بقى مهزوز أكتر بعد 8 ماتشات في الدوري من غير فوز، والإدارة بقيادة جيسون ويلكوكس هتاخد القرار قبل نهاية التوقف الدولي. يونايتد مش عايز مدرب مؤقت، وفيه شكوك إنه يكون موجود في ماتش ليفربول في أنفيلد.",
    "source": "Sky Sports",
-   "time": "5:35 م",
-   "url": "https://www.skysports.com/football/news/13610134/manchester-united-the-key-questions-with-michael-carricks-future-still-up-in-the-air-at-old-trafford"
+   "time": "1:15 ص",
+   "url": "https://www.skysports.com/football/news/13610412/michael-carrick-future-man-utd-head-coach-position-increasingly-in-doubt-but-no-final-decision-made"
+  },
+  {
+   "id": "pochettino-mun",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "بوتشيتينو ممكن يوافق على تدريب يونايتد",
+   "summary": "صحف إنجليزية بتقول إن بوتشيتينو مستعد يفكر في العرض لو كاريك مشي، وThe Athletic بتحطه من أبرز المرشحين جنب إيدي هاو وناجلسمان. ولسه مفيش مفاوضات رسمية.",
+   "source": "Sky Sports",
+   "time": "1:25 ص",
+   "url": "https://www.skysports.com/football/news/13610409/mauricio-pochettino-would-consider-manchester-united-job-if-michael-carrick-is-sacked-paper-talk"
+  },
+  {
+   "id": "howe-palace-no",
+   "comp": "الدوري الإنجليزي",
+   "color": "#241F20",
+   "title": "إيدي هاو رفض عرض كريستال بالاس",
+   "summary": "حسب صحيفة The Sun، مدرب نيوكاسل رفض عرض من كريستال بالاس عشان يخلف بيير ساج، واسمه لسه مطروح في يونايتد.",
+   "source": "Sky Sports",
+   "time": "1:25 ص",
+   "url": "https://www.skysports.com/football/news/13610409/mauricio-pochettino-would-consider-manchester-united-job-if-michael-carrick-is-sacked-paper-talk"
   },
   {
    "id": "vvd-netherlands-out",
@@ -155,5 +165,5 @@
    ]
   }
  ],
- "updatedLabel": "التلات 1:30 ص"
+ "updatedLabel": "التلات 9:05 ص"
 }
