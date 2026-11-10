@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T01:55:11+02:00",
- "updatedLabel": "التلات 1:55 ص",
+ "updated": "2026-11-10T12:30:00+02:00",
+ "updatedLabel": "التلات 12:30 م",
  "items": [
   {
    "id": "raphinha-renewal-bar",
@@ -29,6 +29,40 @@
    "updatedLabel": "5 نوفمبر"
   },
   {
+   "id": "carrick-exit-mun",
+   "player": "مايكل كاريك",
+   "position": "مدرب",
+   "age": 45,
+   "from": "مانشستر يونايتد",
+   "fromColor": "#DA291C",
+   "to": "إقالة متوقعة (بوكيتينو المرشح الأول)",
+   "toColor": "#6B7280",
+   "fee": "",
+   "status": "advanced",
+   "summary": "حسب The Athletic (أورنستين وزمايله)، إدارة يونايتد اتجهت لإقالة كاريك بعد بداية كارثية: الفريق في المركز 18 ومن غير فوز في 8 ماتشات دوري، وآخرها تعادل 4-4 مع أستون فيلا. talkSPORT قال إن برادة وويلكوكس هيوصّوا بالإقالة في اجتماع مع راتكليف. النادي بيقول لسه مفيش قرار نهائي، والمتوقع يتحسم قبل ماتش ليفربول يوم 22 نوفمبر. بوكيتينو (مدرب أمريكا) المرشح الأول، وكمان إيدي هاو وناجلسمان في الصورة.",
+   "timeline": [
+    {
+     "date": "9 نوفمبر",
+     "text": "The Athletic: كاريك متوقع يتقال بعد نقاشات طويلة في الإدارة"
+    },
+    {
+     "date": "10 نوفمبر",
+     "text": "اجتماع الإدارة مع الملاك، وبوكيتينو في مقدمة المرشحين"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Athletic (عبر Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/michael-carrick-expected-pochettino-named-234037973.html"
+    },
+    {
+     "name": "The Athletic / talkSPORT (عبر Sports Illustrated)",
+     "url": "https://www.si.com/soccer/man-utd-fire-michael-carrick-relegation-zone-humiliation-report"
+    }
+   ],
+   "updatedLabel": "10 نوفمبر"
+  },
+  {
    "id": "guler-renewal-rma",
    "player": "أردا جولر",
    "position": "وسط هجومي",
@@ -52,6 +86,10 @@
     {
      "date": "8 نوفمبر",
      "text": "لسه مستنيين الإعلان الرسمي من ريال مدريد"
+    },
+    {
+     "date": "10 نوفمبر",
+     "text": "رومانو أكّد تاني: العقد اتمضى وفاضل البيان الرسمي بس"
     }
    ],
    "sources": [
@@ -60,7 +98,7 @@
      "url": "https://x.com/FabrizioRomano/status/2113316213732651157"
     }
    ],
-   "updatedLabel": "8 نوفمبر"
+   "updatedLabel": "10 نوفمبر"
   },
   {
    "id": "gabriel-new-rma",
@@ -99,6 +137,36 @@
     }
    ],
    "updatedLabel": "6 نوفمبر"
+  },
+  {
+   "id": "zubimendi-new-atm",
+   "player": "مارتن زوبيميندي",
+   "position": "وسط دفاعي",
+   "age": 27,
+   "from": "أرسنال",
+   "fromColor": "#EF0107",
+   "to": "أتلتيكو مدريد",
+   "toColor": "#CB3524",
+   "fee": "",
+   "status": "rumour",
+   "summary": "AS وصحيفة Sport بيقولوا إن أتلتيكو حاطط زوبيميندي في حساباته كهدف محتمل في يناير أو الصيف. أتلتيكو كان حاول يجيبه وهو في ريال سوسيداد بس أرسنال سبقه. مفيش عرض رسمي ولا مبلغ متداول من مصدر موثوق، وريال مدريد كمان اسمه اتربط باللاعب في تقارير تانية.",
+   "timeline": [
+    {
+     "date": "10 نوفمبر",
+     "text": "AS وSport: أتلتيكو بيفكر في زوبيميندي لشهر يناير"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sport (عبر عمود BBC Gossip - The False 9)",
+     "url": "https://thefalse9.com/2026/11/transfer-news-today-10-november-2026.html"
+    },
+    {
+     "name": "AS (عبر Football Today)",
+     "url": "https://footballtoday.com/2026/11/10/atletico-eyeing-zubimendi-as-gyokeres-and-merino-face-uncertain-futures-at-arsenal"
+    }
+   ],
+   "updatedLabel": "10 نوفمبر"
   }
  ]
 }
