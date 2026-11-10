@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T12:30:00+02:00",
- "updatedLabel": "التلات 12:30 م",
+ "updated": "2026-11-10T20:20:00+02:00",
+ "updatedLabel": "التلات 8:20 م",
  "items": [
   {
    "id": "raphinha-renewal-bar",
@@ -35,11 +35,11 @@
    "age": 45,
    "from": "مانشستر يونايتد",
    "fromColor": "#DA291C",
-   "to": "إقالة متوقعة (بوكيتينو المرشح الأول)",
+   "to": "إقالة متوقعة (هاو وبوكيتينو أبرز المرشحين)",
    "toColor": "#6B7280",
    "fee": "",
    "status": "advanced",
-   "summary": "حسب The Athletic (أورنستين وزمايله)، إدارة يونايتد اتجهت لإقالة كاريك بعد بداية كارثية: الفريق في المركز 18 ومن غير فوز في 8 ماتشات دوري، وآخرها تعادل 4-4 مع أستون فيلا. talkSPORT قال إن برادة وويلكوكس هيوصّوا بالإقالة في اجتماع مع راتكليف. النادي بيقول لسه مفيش قرار نهائي، والمتوقع يتحسم قبل ماتش ليفربول يوم 22 نوفمبر. بوكيتينو (مدرب أمريكا) المرشح الأول، وكمان إيدي هاو وناجلسمان في الصورة.",
+   "summary": "ESPN بتقول إن مفيش قرار نهائي لسه، بس كاريك بقى أقرب للرحيل قبل ماتش ليفربول في أنفيلد يوم 22 نوفمبر. برادة وويلكوكس هيقابلوا راتكليف في موناكو، والمصادر بتقول المستقبل بتاع كاريك هيتحسم في اجتماع الأربع. يونايتد كسب ماتش دوري واحد بس وفي منطقة الهبوط بعد التعادل 4-4 مع فيلا. المرشحين: إيدي هاو (حسب تقارير هو الأوفر حظاً)، بوكيتينو (عقده مع أمريكا فيه بند يسمحله يكلم أندية أوروبية)، ناجلسمان وكونتي.",
    "timeline": [
     {
      "date": "9 نوفمبر",
@@ -48,6 +48,10 @@
     {
      "date": "10 نوفمبر",
      "text": "اجتماع الإدارة مع الملاك، وبوكيتينو في مقدمة المرشحين"
+    },
+    {
+     "date": "10 نوفمبر",
+     "text": "ESPN: اجتماع مع راتكليف في موناكو، والقرار متوقع الأربع، وكونتي انضم للمرشحين"
     }
    ],
    "sources": [
@@ -58,6 +62,14 @@
     {
      "name": "The Athletic / talkSPORT (عبر Sports Illustrated)",
      "url": "https://www.si.com/soccer/man-utd-fire-michael-carrick-relegation-zone-humiliation-report"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50441594/man-united-michael-carrick-sir-jim-ratcliffe-future-talks"
+    },
+    {
+     "name": "beIN Sports (عن EFE)",
+     "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/michael-carrick-could-be-sacked-by-manchester-united-as-ratcliffe-set-to-decide-his-future-on-wednesday-2026-11-10"
     }
    ],
    "updatedLabel": "10 نوفمبر"
