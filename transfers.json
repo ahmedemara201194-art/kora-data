@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T20:20:00+02:00",
- "updatedLabel": "التلات 8:20 م",
+ "updated": "2026-11-11T12:20:00+02:00",
+ "updatedLabel": "الأربع 12:20 م",
  "items": [
   {
    "id": "raphinha-renewal-bar",
@@ -29,17 +29,51 @@
    "updatedLabel": "5 نوفمبر"
   },
   {
+   "id": "pochettino-new-mun",
+   "player": "ماوريسيو بوكيتينو",
+   "position": "مدرب",
+   "age": 54,
+   "from": "منتخب أمريكا",
+   "fromColor": "#0A3161",
+   "to": "مانشستر يونايتد",
+   "toColor": "#DA291C",
+   "fee": "",
+   "status": "advanced",
+   "summary": "أورنستين بيقول إن يونايتد بيقفل اتفاق مع بوكيتينو وبيظبط الشروط الشخصية مع وكلائه، ومش متوقع مشاكل. الصفقة مربوطة بقرار إقالة كاريك. عقده مع أمريكا فيه بند بيسمحله يمشي لنادي أوروبي لو اتدفع تعويض، والتليجراف قدّره بأقل من 10 مليون دولار، غير تعويض الجهاز المعاون. يونايتد لسه مكلمش الاتحاد الأمريكي رسمياً، وممكن يستنى بعد ماتشين أمريكا وهايتي في دوري الأمم.",
+   "timeline": [
+    {
+     "date": "10 نوفمبر",
+     "text": "بوكيتينو في مقدمة المرشحين لخلافة كاريك"
+    },
+    {
+     "date": "11 نوفمبر",
+     "text": "أورنستين: يونايتد بيقفل الاتفاق وبيظبط الشروط الشخصية"
+    }
+   ],
+   "sources": [
+    {
+     "name": "David Ornstein (عبر Football365)",
+     "url": "https://www.football365.com/news/ornstein-reveals-man-utd-now-finalising-deal-chosen-carrick-replacement-ultimate-decision"
+    },
+    {
+     "name": "The Telegraph (عبر HITC / Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/much-manchester-united-pay-usmnt-094338690.html"
+    }
+   ],
+   "updatedLabel": "11 نوفمبر"
+  },
+  {
    "id": "carrick-exit-mun",
    "player": "مايكل كاريك",
    "position": "مدرب",
    "age": 45,
    "from": "مانشستر يونايتد",
    "fromColor": "#DA291C",
-   "to": "إقالة متوقعة (هاو وبوكيتينو أبرز المرشحين)",
+   "to": "إقالة متوقعة (بوكيتينو البديل المختار)",
    "toColor": "#6B7280",
    "fee": "",
    "status": "advanced",
-   "summary": "ESPN بتقول إن مفيش قرار نهائي لسه، بس كاريك بقى أقرب للرحيل قبل ماتش ليفربول في أنفيلد يوم 22 نوفمبر. برادة وويلكوكس هيقابلوا راتكليف في موناكو، والمصادر بتقول المستقبل بتاع كاريك هيتحسم في اجتماع الأربع. يونايتد كسب ماتش دوري واحد بس وفي منطقة الهبوط بعد التعادل 4-4 مع فيلا. المرشحين: إيدي هاو (حسب تقارير هو الأوفر حظاً)، بوكيتينو (عقده مع أمريكا فيه بند يسمحله يكلم أندية أوروبية)، ناجلسمان وكونتي.",
+   "summary": "الإدارة (برادة وويلكوكس) أوصت بإقالة كاريك، والقرار النهائي في اجتماع النهارده الأربع مع راتكليف. لحد الصبح كاريك لسه بيقود التدريب في كارينجتون ومحدش بلّغه رسمياً. يونايتد عنده 8 نقط من 10 ماتشات وفي منطقة الهبوط، والنادي عايز مدرب جديد قبل ماتش ليفربول في أنفيلد يوم 22 نوفمبر. أورنستين بيقول بوكيتينو هو المرشح المختار.",
    "timeline": [
     {
      "date": "9 نوفمبر",
@@ -52,9 +86,17 @@
     {
      "date": "10 نوفمبر",
      "text": "ESPN: اجتماع مع راتكليف في موناكو، والقرار متوقع الأربع، وكونتي انضم للمرشحين"
+    },
+    {
+     "date": "11 نوفمبر",
+     "text": "أورنستين: يونايتد بيقفل الاتفاق مع بوكيتينو، والإقالة مستنية قرار الاجتماع"
     }
    ],
    "sources": [
+    {
+     "name": "David Ornstein (عبر Football365)",
+     "url": "https://www.football365.com/news/ornstein-reveals-man-utd-now-finalising-deal-chosen-carrick-replacement-ultimate-decision"
+    },
     {
      "name": "The Athletic (عبر Yahoo Sports)",
      "url": "https://sports.yahoo.com/articles/michael-carrick-expected-pochettino-named-234037973.html"
@@ -72,7 +114,7 @@
      "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/michael-carrick-could-be-sacked-by-manchester-united-as-ratcliffe-set-to-decide-his-future-on-wednesday-2026-11-10"
     }
    ],
-   "updatedLabel": "10 نوفمبر"
+   "updatedLabel": "11 نوفمبر"
   },
   {
    "id": "guler-renewal-rma",
@@ -102,6 +144,10 @@
     {
      "date": "10 نوفمبر",
      "text": "رومانو أكّد تاني: العقد اتمضى وفاضل البيان الرسمي بس"
+    },
+    {
+     "date": "11 نوفمبر",
+     "text": "رومانو: الورق خلص والإعلان الرسمي لسه مستني"
     }
    ],
    "sources": [
@@ -110,7 +156,7 @@
      "url": "https://x.com/FabrizioRomano/status/2113316213732651157"
     }
    ],
-   "updatedLabel": "10 نوفمبر"
+   "updatedLabel": "11 نوفمبر"
   },
   {
    "id": "gabriel-new-rma",
@@ -149,6 +195,40 @@
     }
    ],
    "updatedLabel": "6 نوفمبر"
+  },
+  {
+   "id": "courtois-renewal-rma",
+   "player": "تيبو كورتوا",
+   "position": "حارس مرمى",
+   "age": 34,
+   "from": "ريال مدريد",
+   "fromColor": "#FEBE10",
+   "to": "ريال مدريد (تجديد)",
+   "toColor": "#00529F",
+   "fee": "",
+   "status": "talks",
+   "summary": "فابريزيو رومانو بيقول إن كورتوا جاهز يمضي تجديد مع ريال مدريد لحد 2028. ده استثناء من سياسة النادي في تجديد اللاعبين اللي فوق الـ30 بسنة واحدة بس. الاتفاق لسه ما اتمضاش ومفيش إعلان رسمي.",
+   "timeline": [
+    {
+     "date": "سبتمبر",
+     "text": "تقارير إن مدريد بيجهز تجديد لحد 2028"
+    },
+    {
+     "date": "11 نوفمبر",
+     "text": "رومانو: كورتوا جاهز يمضي لحد 2028"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fabrizio Romano (عبر FootballTransfers)",
+     "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-madrid-signing-confirmed-spurs-paz-bid-ngumoha-panic"
+    },
+    {
+     "name": "beIN Sports",
+     "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/real-madrid-prepares-thibaut-courtois-contract-extension-through-2028-2026-09-13"
+    }
+   ],
+   "updatedLabel": "11 نوفمبر"
   },
   {
    "id": "zubimendi-new-atm",
