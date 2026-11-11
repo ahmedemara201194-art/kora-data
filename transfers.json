@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T12:20:00+02:00",
- "updatedLabel": "الأربع 12:20 م",
+ "updated": "2026-11-11T20:20:00+02:00",
+ "updatedLabel": "الأربع 8:20 م",
  "items": [
   {
    "id": "raphinha-renewal-bar",
@@ -39,7 +39,7 @@
    "toColor": "#DA291C",
    "fee": "",
    "status": "advanced",
-   "summary": "أورنستين بيقول إن يونايتد بيقفل اتفاق مع بوكيتينو وبيظبط الشروط الشخصية مع وكلائه، ومش متوقع مشاكل. الصفقة مربوطة بقرار إقالة كاريك. عقده مع أمريكا فيه بند بيسمحله يمشي لنادي أوروبي لو اتدفع تعويض، والتليجراف قدّره بأقل من 10 مليون دولار، غير تعويض الجهاز المعاون. يونايتد لسه مكلمش الاتحاد الأمريكي رسمياً، وممكن يستنى بعد ماتشين أمريكا وهايتي في دوري الأمم.",
+   "summary": "سكاي سبورتس بتقول إن يونايتد وصل لاتفاق شفهي مبدئي مع بوكيتينو عشان يبقى المدرب الجديد، وده بعد ما أورنستين قال إن الشروط الشخصية بتتظبط. الصفقة مربوطة بقرار إقالة كاريك اللي لسه ما اتعلنش. عقده مع منتخب أمريكا فيه بند خروج متداول إنه حوالي 10 مليون دولار، ومدة عقده مع يونايتد لسه مش معروفة.",
    "timeline": [
     {
      "date": "10 نوفمبر",
@@ -48,6 +48,10 @@
     {
      "date": "11 نوفمبر",
      "text": "أورنستين: يونايتد بيقفل الاتفاق وبيظبط الشروط الشخصية"
+    },
+    {
+     "date": "11 نوفمبر",
+     "text": "سكاي سبورتس: اتفاق شفهي مبدئي بين يونايتد وبوكيتينو"
     }
    ],
    "sources": [
@@ -58,6 +62,10 @@
     {
      "name": "The Telegraph (عبر HITC / Yahoo Sports)",
      "url": "https://sports.yahoo.com/articles/much-manchester-united-pay-usmnt-094338690.html"
+    },
+    {
+     "name": "Sky Sports (via Yahoo/AFP)",
+     "url": "https://sports.yahoo.com/articles/man-utd-reach-verbal-agreement-173951371.html"
     }
    ],
    "updatedLabel": "11 نوفمبر"
@@ -73,7 +81,7 @@
    "toColor": "#6B7280",
    "fee": "",
    "status": "advanced",
-   "summary": "الإدارة (برادة وويلكوكس) أوصت بإقالة كاريك، والقرار النهائي في اجتماع النهارده الأربع مع راتكليف. لحد الصبح كاريك لسه بيقود التدريب في كارينجتون ومحدش بلّغه رسمياً. يونايتد عنده 8 نقط من 10 ماتشات وفي منطقة الهبوط، والنادي عايز مدرب جديد قبل ماتش ليفربول في أنفيلد يوم 22 نوفمبر. أورنستين بيقول بوكيتينو هو المرشح المختار.",
+   "summary": "الإدارة (برادة وويلكوكس) اجتمعت مع راتكليف في موناكو النهارده عشان تحسم مصير كاريك، والتقارير بتقول إن الإقالة هي المتوقعة. لحد بالليل مفيش إعلان رسمي، وكاريك حضر التدريب عادي. يونايتد في منطقة الهبوط بـ8 نقط من 10 ماتشات، وسكاي بتقول إن فيه اتفاق شفهي مع بوكيتينو يخلفه.",
    "timeline": [
     {
      "date": "9 نوفمبر",
@@ -90,6 +98,10 @@
     {
      "date": "11 نوفمبر",
      "text": "أورنستين: يونايتد بيقفل الاتفاق مع بوكيتينو، والإقالة مستنية قرار الاجتماع"
+    },
+    {
+     "date": "11 نوفمبر",
+     "text": "اجتماع موناكو اتعمل ولسه مفيش بيان رسمي، وسكاي: اتفاق شفهي مع بوكيتينو"
     }
    ],
    "sources": [
@@ -112,6 +124,10 @@
     {
      "name": "beIN Sports (عن EFE)",
      "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/michael-carrick-could-be-sacked-by-manchester-united-as-ratcliffe-set-to-decide-his-future-on-wednesday-2026-11-10"
+    },
+    {
+     "name": "Sky Sports (via Yahoo/AFP)",
+     "url": "https://sports.yahoo.com/articles/man-utd-reach-verbal-agreement-173951371.html"
     }
    ],
    "updatedLabel": "11 نوفمبر"
@@ -241,11 +257,15 @@
    "toColor": "#CB3524",
    "fee": "",
    "status": "rumour",
-   "summary": "AS وصحيفة Sport بيقولوا إن أتلتيكو حاطط زوبيميندي في حساباته كهدف محتمل في يناير أو الصيف. أتلتيكو كان حاول يجيبه وهو في ريال سوسيداد بس أرسنال سبقه. مفيش عرض رسمي ولا مبلغ متداول من مصدر موثوق، وريال مدريد كمان اسمه اتربط باللاعب في تقارير تانية.",
+   "summary": "AS وصحيفة Sport بيقولوا إن أتلتيكو حاطط زوبيميندي في حساباته كهدف محتمل في يناير أو الصيف. أتلتيكو كان حاول يجيبه وهو في ريال سوسيداد بس أرسنال سبقه. مفيش عرض رسمي ولا مبلغ متداول من مصدر موثوق، وريال مدريد وتشيلسي كمان اسمهم اتربط باللاعب حسب ESPN.",
    "timeline": [
     {
      "date": "10 نوفمبر",
      "text": "AS وSport: أتلتيكو بيفكر في زوبيميندي لشهر يناير"
+    },
+    {
+     "date": "11 نوفمبر",
+     "text": "ESPN: مدريد وأتلتيكو وتشيلسي مهتمين بزوبيميندي"
     }
    ],
    "sources": [
@@ -256,9 +276,65 @@
     {
      "name": "AS (عبر Football Today)",
      "url": "https://footballtoday.com/2026/11/10/atletico-eyeing-zubimendi-as-gyokeres-and-merino-face-uncertain-futures-at-arsenal"
+    },
+    {
+     "name": "ESPN Transfer Talk",
+     "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins"
     }
    ],
-   "updatedLabel": "10 نوفمبر"
+   "updatedLabel": "11 نوفمبر"
+  },
+  {
+   "id": "endrick-new-ars",
+   "player": "إندريك",
+   "position": "مهاجم",
+   "age": 20,
+   "from": "ريال مدريد",
+   "fromColor": "#FEBE10",
+   "to": "أرسنال",
+   "toColor": "#EF0107",
+   "fee": "",
+   "status": "rumour",
+   "summary": "تقارير من talkSPORT وAS بتقول إن أرسنال ممكن يتحرك على إندريك في يناير. البرازيلي مش بياخد دقايق كفاية في مدريد، وروما وسبورتنج لشبونة كمان عايزينه على سبيل الإعارة. مفيش عرض رسمي ولا مبلغ متداول.",
+   "timeline": [
+    {
+     "date": "11 نوفمبر",
+     "text": "talkSPORT وAS: أرسنال بيفكر في إندريك لشهر يناير"
+    }
+   ],
+   "sources": [
+    {
+     "name": "ESPN Transfer Talk",
+     "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins"
+    }
+   ],
+   "updatedLabel": "11 نوفمبر"
+  },
+  {
+   "id": "ngumoha-new-bay",
+   "player": "ريو نجوموها",
+   "position": "جناح",
+   "age": 18,
+   "from": "ليفربول",
+   "fromColor": "#C8102E",
+   "to": "بايرن ميونخ",
+   "toColor": "#DC052D",
+   "fee": "",
+   "status": "rumour",
+   "summary": "كريستيان فالك من Bild بيقول إن بايرن لسه بيتكلم بخصوص نجوموها، وكان مستعد يدفع 70 مليون يورو في الصيف. ليفربول ما ردش رسمياً، والخبر من مصدر واحد لحد دلوقتي.",
+   "timeline": [
+    {
+     "date": "11 نوفمبر",
+     "text": "Bild (فالك): بايرن لسه في كلام بخصوص نجوموها"
+    }
+   ],
+   "sources": [
+    {
+     "name": "ESPN Transfer Talk",
+     "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins"
+    }
+   ],
+   "updatedLabel": "11 نوفمبر"
   }
  ]
 }
