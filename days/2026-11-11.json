@@ -1,0 +1,152 @@
+{
+ "date": "2026-11-11",
+ "label": "الأربع 11 نوفمبر",
+ "short": "الأربع 11",
+ "pressers": [],
+ "news": [
+  {
+   "id": "man-utd-carrick-future",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "مستقبل كاريك في يونايتد على المحك",
+   "summary": "إدارة مانشستر يونايتد اجتمعت امبارح الصبح تناقش مصير مايكل كاريك بعد أسوأ بداية للنادي في تاريخ البريميرليج: فوز واحد في 10 جولات والفريق في منطقة الهبوط. بوكيتينو، مدرب أمريكا، هو المرشح الأول لخلافته حسب ESPN.",
+   "source": "ESPN",
+   "time": "8:33 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50442775/usmnt-manchester-united-pros-cons-mauricio-pochettino-options"
+  },
+  {
+   "id": "van-dijk-netherlands-out",
+   "comp": "الدوري الإنجليزي",
+   "color": "#C8102E",
+   "title": "فان دايك يخرج من معسكر هولندا",
+   "summary": "الاتحاد الهولندي استبعد فيرجيل فان دايك من ماتشات دوري الأمم قدام اليونان وألمانيا لأنه رجع من ماتشات الويك إند مش جاهز بدنياً. ليفربول مستني التقرير الطبي قبل استقبال يونايتد في أنفيلد يوم 22 نوفمبر.",
+   "source": "EPL Index",
+   "time": "3:50 م",
+   "url": "https://sports.yahoo.com/articles/liverpool-dealt-another-injury-worry-135000558.html"
+  },
+  {
+   "id": "tchouameni-adductor",
+   "comp": "الدوري الإسباني",
+   "color": "#FEBE10",
+   "title": "إصابة تشواميني ترجّعه لمدريد",
+   "summary": "منتخب فرنسا أعلن إن أوريليان تشواميني عنده إصابة في العضلة الضامة اليمين، ورجع لريال مدريد قبل ماتشي إيطاليا وتركيا. مدة غيابه لسه مش معروفة، وآخر إصابة مشابهة في كأس العالم بعدته حوالي شهر.",
+   "source": "Sports Illustrated",
+   "time": "12:20 ص",
+   "url": "https://www.si.com/soccer/real-madrid-critical-injury-blow-days-november-international-break"
+  },
+  {
+   "id": "mourinho-manager-of-month",
+   "comp": "الدوري الإسباني",
+   "color": "#FEBE10",
+   "title": "مورينيو أحسن مدرب في أكتوبر",
+   "summary": "جوزيه مورينيو خد جايزة مدرب الشهر في الليجا بعد 5 انتصارات في أكتوبر، متفوق على سيميوني. الفريق رجع التدريب في فالديبيباس والماتش الجاي قدام سيلتا في البرنابيو يوم 21 نوفمبر.",
+   "source": "LiveScore / Real Madrid",
+   "time": "امبارح",
+   "url": "https://www.realmadrid.com/en-US/news/football/first-team/trainings/el-equipo-se-esta-entrenando-10-11-2026"
+  },
+  {
+   "id": "yamal-knee-spain",
+   "comp": "الدوري الإسباني",
+   "color": "#A50044",
+   "title": "لامين يامال هيغيب عن ماتش التشيك",
+   "summary": "يامال عنده وجع في الركبة اليمين بعد خبطة، فهيفضل في برشلونة دلوقتي ويلحق بالمنتخب الإسباني قبل ماتش إنجلترا يوم الأحد. وفي نفس الوقت كسب جايزة أحسن جون في الليجا لشهر أكتوبر.",
+   "source": "Mundo Deportivo / SB Nation",
+   "time": "12:00 م",
+   "url": "https://sports.yahoo.com/articles/fc-barcelona-news-10-november-100000319.html"
+  },
+  {
+   "id": "zubimendi-january-exit",
+   "comp": "سوق الانتقالات",
+   "color": "#DB0007",
+   "title": "زوبيمندي ممكن يسيب أرسنال في يناير",
+   "summary": "ريال مدريد وأتلتيكو وتشيلسي بيراقبوا مارتن زوبيمندي بعد ما دوره قلّ مع أرتيتا. أرسنال عايز مش أقل من 60 مليون إسترليني، نفس المبلغ اللي دفعه فيه.",
+   "source": "GOAL",
+   "time": "3:00 م",
+   "url": "https://goal.com/en/news/deal-worth-60-million-chelsea-rival-real-madrid-for-spain-star/bltc566776d58ea66d8"
+  },
+  {
+   "id": "fifpro-world-11-2026",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "تشكيلة فيفبرو 2026: ميسي راجع وكين برا",
+   "summary": "اللاعيبة اختاروا تشكيلة السنة: رايا، كوبارسي، حكيمي، نونو منديز، بيلينجهام، رودري، فيتينيا، هالاند، مبابي، ميسي ويامال. باريس ليه 3 لاعيبة، وهاري كين مادخلش.",
+   "source": "FIFPRO / PSG",
+   "time": "امبارح",
+   "url": "https://www.psg.fr/en/content/achraf-hakimi-nuno-mendes-and-vitinha-paris-saint-germain-in-mens-fifpro-world-11-2026"
+  },
+  {
+   "id": "arsenal-oneill-ni-withdrawal",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DB0007",
+   "title": "موهبة أرسنال تنسحب من أيرلندا الشمالية",
+   "summary": "الجناح الشاب سيداك أونيل (18 سنة) انسحب من معسكر أيرلندا الشمالية لدوري الأمم بسبب إصابة، وكان غاب كمان عن فوز تحت 21 سنة على أستون فيلا 5-2.",
+   "source": "Evening Standard",
+   "time": "11:09 ص",
+   "url": "https://uk.sports.yahoo.com/news/arsenal-hit-injury-blow-international-090913504.html"
+  },
+  {
+   "id": "nations-league-thursday",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "دوري الأمم يرجع بكرة",
+   "summary": "مفيش ماتشات النهارده، والتوقف الدولي بيولّع من بكرة الخميس: إيطاليا × فرنسا، إنجلترا × كرواتيا، والتشيك × إسبانيا. وقمة إسبانيا × إنجلترا يوم الأحد.",
+   "source": "OneFootball",
+   "time": "3:55 م",
+   "url": "https://sports.yahoo.com/articles/must-watch-matches-international-break-135500510.html"
+  }
+ ],
+ "results": [],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 27
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 21
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 26
+    }
+   ]
+  }
+ ],
+ "updatedLabel": "الأربع 9:01 ص"
+}
