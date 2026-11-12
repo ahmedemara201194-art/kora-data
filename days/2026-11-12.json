@@ -1,0 +1,192 @@
+{
+ "date": "2026-11-12",
+ "label": "الخميس 12 نوفمبر",
+ "short": "الخميس 12",
+ "pressers": [],
+ "news": [
+  {
+   "id": "man-utd-pochettino-us-soccer",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "يونايتد كلّم الاتحاد الأمريكي عشان بوكيتينو",
+   "summary": "مانشستر يونايتد اتواصل مع الاتحاد الأمريكي بخصوص الشرط الجزائي لبوكيتينو (10 مليون دولار) عشان يخلف كاريك. وفيه اجتماع مع كاريك النهارده الخميس.",
+   "source": "ESPN",
+   "time": "12:29 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50455598/man-united-us-soccer-pochettino-carrick"
+  },
+  {
+   "id": "mbappe-hamstring-france-italy",
+   "comp": "باقي العالم",
+   "color": "#FEBE10",
+   "title": "مبابي مش هيلعب قدام إيطاليا",
+   "summary": "زيدان أكد إن مبابي هيغيب عن ماتش فرنسا وإيطاليا في دوري الأمم بسبب مشكلة في العضلة الخلفية، بعد ما غاب عن التمرين.",
+   "source": "ESPN",
+   "time": "12:29 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50452835/kylian-mbappe-hamstring-miss-france-clash-italy"
+  },
+  {
+   "id": "de-la-fuente-yamal-privileges",
+   "comp": "باقي العالم",
+   "color": "#A50044",
+   "title": "دي لا فوينتي يدافع عن يامال",
+   "summary": "مدرب إسبانيا نفى إن لامين يامال واخد معاملة خاصة بعد ما انضم للمعسكر متأخر، وقال إن الكلام ده مش حقيقي.",
+   "source": "ESPN",
+   "time": "12:29 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50455459/spain-lamine-yamal-injury-luis-de-la-fuente-nations-league"
+  },
+  {
+   "id": "zubimendi-denies-exit",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DB0007",
+   "title": "زوبيمندي: مش ماشي من أرسنال",
+   "summary": "زوبيمندي نفى إنه عايز يمشي في يناير، رغم الكلام عن اهتمام أتلتيكو مدريد بيه.",
+   "source": "ESPN",
+   "time": "12:29 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50451966/arsenal-martin-zubimendi-atletico-madrid"
+  },
+  {
+   "id": "liverpool-isak-penalty-panel",
+   "comp": "الدوري الإنجليزي",
+   "color": "#C8102E",
+   "title": "ليفربول اتظلم في ضربة جزاء إيزاك",
+   "summary": "لجنة خبراء شافت إن ليفربول كان يستاهل بلنتي قدام أرسنال بعد شد قميص إيزاك.",
+   "source": "ESPN",
+   "time": "12:29 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50451926/liverpool-penalty-arsenal-alexander-isak"
+  },
+  {
+   "id": "brighton-title-rivals",
+   "comp": "الدوري الإنجليزي",
+   "color": "#4A5670",
+   "title": "برايتون أقرب منافس لأرسنال؟",
+   "summary": "ESPN بتناقش هل برايتون التاني في الجدول منافس حقيقي على اللقب، وهل أرسنال المفروض يقلق.",
+   "source": "ESPN",
+   "time": "11:16 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50434026/premier-league-overreactions-brighton-arsenal-title-rivals-man-united-resilience"
+  },
+  {
+   "id": "man-utd-collins-shortlist",
+   "comp": "سوق الانتقالات",
+   "color": "#4A5670",
+   "title": "يونايتد عينه على ناثان كولينز",
+   "summary": "مدافع برينتفورد دخل قايمة يونايتد، وبايرن ميونخ مهتم بجناح ليفربول الشاب ريو نجوموها.",
+   "source": "ESPN",
+   "time": "4:18 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins"
+  },
+  {
+   "id": "us-withdraws-u17-world-cup",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "أمريكا تنسحب من كاس العالم للناشئين",
+   "summary": "الاتحاد الأمريكي سحب منتخب تحت 17 سنة من البطولة المقامة في قطر لأسباب أمنية.",
+   "source": "ESPN",
+   "time": "12:29 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50455133/usa-fifa-mens-u17-world-cup-qatar-safety"
+  },
+  {
+   "id": "mctominay-heart-world-cup",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "مكتوميناي يحكي عن أزمة قلبه قبل المونديال",
+   "summary": "نجم اسكتلندا كشف إنه عمل إجراء طبي للقلب قبل أول ماتش في كاس العالم بيومين، ووصف الموقف بإنه \"مش مثالي\".",
+   "source": "ESPN",
+   "time": "12:29 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50444096/scott-mctominay-scotland-2026-world-cup-heart-shock"
+  },
+  {
+   "id": "messi-cornella-plans",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "ميسي وكورنيا: مش نسخة من ريكسهام",
+   "summary": "ميسي اشترى نادي كورنيا الإسباني في الدرجة الخامسة، وESPN بتشرح ليه خطته مختلفة عن قصة ريكسهام.",
+   "source": "ESPN",
+   "time": "12:29 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50441349/why-messi-takeover-non-league-cornella-wrexham-repeat"
+  },
+  {
+   "id": "haaland-mrbeast",
+   "comp": "الدوري الإنجليزي",
+   "color": "#6CABDD",
+   "title": "هالاند يتحدى مستر بيست",
+   "summary": "مهاجم سيتي ظهر مع اليوتيوبر الشهير في سلسلة تحديات كورة.",
+   "source": "ESPN",
+   "time": "10:05 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50445699/mrbeast-meet-erling-haaland-manchester-city-star-puts-youtuber-soccer-gauntlet"
+  }
+ ],
+ "results": [
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "إيطاليا",
+   "away": "فرنسا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  }
+ ],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 27
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 21
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 26
+    }
+   ]
+  }
+ ],
+ "headline_match": {
+  "label": "ماتش الليلة · دوري الأمم الأوروبية",
+  "time": "9:45 م",
+  "home": "إيطاليا",
+  "homeCode": "ITA",
+  "homeColor": "#0064AA",
+  "homeNote": "على أرضها في ميلانو",
+  "away": "فرنسا",
+  "awayCode": "FRA",
+  "awayColor": "#002654",
+  "awayNote": "من غير مبابي"
+ },
+ "updatedLabel": "الخميس 8:59 ص"
+}
