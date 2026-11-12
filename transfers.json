@@ -1,7 +1,85 @@
 {
- "updated": "2026-11-12T12:20:00+02:00",
- "updatedLabel": "الخميس 12:20 م",
+ "updated": "2026-11-12T20:15:00+02:00",
+ "updatedLabel": "الخميس 8:15 م",
  "items": [
+  {
+   "id": "carrick-exit-mun",
+   "player": "مايكل كاريك",
+   "position": "مدرب",
+   "age": 45,
+   "from": "مانشستر يونايتد",
+   "fromColor": "#DA291C",
+   "to": "إقالة متوقعة (بوكيتينو البديل المختار)",
+   "toColor": "#6B7280",
+   "fee": "",
+   "status": "official",
+   "summary": "مانشستر يونايتد أعلن رسمياً الصبح يوم الخميس إقالة مايكل كاريك، وقال في بيانه إن التغيير بقى ضروري. القرار اتصدّق عليه من راتكليف في اجتماع موناكو بناءً على توصية برادة وويلكوكس، بعد أسوأ بداية للفريق في البريميرليج. النادي ما سمّاش مدرب مؤقت لحد دلوقتي، وبوكيتينو هو المرشح الأول لخلافته.",
+   "timeline": [
+    {
+     "date": "9 نوفمبر",
+     "text": "The Athletic: كاريك متوقع يتقال بعد نقاشات طويلة في الإدارة"
+    },
+    {
+     "date": "10 نوفمبر",
+     "text": "اجتماع الإدارة مع الملاك، وبوكيتينو في مقدمة المرشحين"
+    },
+    {
+     "date": "10 نوفمبر",
+     "text": "ESPN: اجتماع مع راتكليف في موناكو، والقرار متوقع الأربع، وكونتي انضم للمرشحين"
+    },
+    {
+     "date": "11 نوفمبر",
+     "text": "أورنستين: يونايتد بيقفل الاتفاق مع بوكيتينو، والإقالة مستنية قرار الاجتماع"
+    },
+    {
+     "date": "11 نوفمبر",
+     "text": "اجتماع موناكو اتعمل ولسه مفيش بيان رسمي، وسكاي: اتفاق شفهي مع بوكيتينو"
+    },
+    {
+     "date": "12 نوفمبر",
+     "text": "رومانو: الإقالة شبه أكيدة، وسكاي: متوقع يمشي قبل آخر الأسبوع"
+    },
+    {
+     "date": "12 نوفمبر",
+     "text": "رسمي: يونايتد أعلن إقالة كاريك في بيان الخميس الصبح"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13606106/man-utd-sack-michael-carrick-with-mauricio-pochettino-set-to-be-appointed-after-worst-start-to-premier-league-season"
+    },
+    {
+     "name": "David Ornstein (عبر Football365)",
+     "url": "https://www.football365.com/news/ornstein-reveals-man-utd-now-finalising-deal-chosen-carrick-replacement-ultimate-decision"
+    },
+    {
+     "name": "The Athletic (عبر Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/michael-carrick-expected-pochettino-named-234037973.html"
+    },
+    {
+     "name": "The Athletic / talkSPORT (عبر Sports Illustrated)",
+     "url": "https://www.si.com/soccer/man-utd-fire-michael-carrick-relegation-zone-humiliation-report"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50441594/man-united-michael-carrick-sir-jim-ratcliffe-future-talks"
+    },
+    {
+     "name": "beIN Sports (عن EFE)",
+     "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/michael-carrick-could-be-sacked-by-manchester-united-as-ratcliffe-set-to-decide-his-future-on-wednesday-2026-11-10"
+    },
+    {
+     "name": "Sky Sports (via Yahoo/AFP)",
+     "url": "https://sports.yahoo.com/articles/man-utd-reach-verbal-agreement-173951371.html"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor"
+    }
+   ],
+   "updatedLabel": "12 نوفمبر"
+  },
   {
    "id": "raphinha-renewal-bar",
    "player": "رافينيا",
@@ -37,9 +115,9 @@
    "fromColor": "#0A3161",
    "to": "مانشستر يونايتد",
    "toColor": "#DA291C",
-   "fee": "",
+   "fee": "شرط جزائي 7 مليون إسترليني للاتحاد الأمريكي",
    "status": "advanced",
-   "summary": "يونايتد وصل لاتفاق شفهي مع بوكيتينو عشان يبقى المدرب الجديد، ورومانو بيقول إن العقد وتفاصيل الجهاز المعاون بيتقفلوا والإعلان مسألة أيام. سكاي بتقول إن الكلام مع الاتحاد الأمريكي هيتسرّع بخصوص الشرط الجزائي (سكاي بتقول حوالي 7 مليون إسترليني ورومانو بيقول 10 مليون دولار). بوكيتينو متوقع يقود أمريكا في ماتشين هايتي في فترة التوقف وبعدين يستلم، ومدة عقده مع يونايتد لسه مش معروفة.",
+   "summary": "بعد إقالة كاريك رسمياً، سكاي بتقول إن فيه اتفاق مبدئي كامل بين يونايتد وبوكيتينو والكلام مع الاتحاد الأمريكي وصل لمرحلة الورق والإجراءات. عقده مع أمريكا فيه شرط جزائي حوالي 7 مليون إسترليني. المتوقع يكمّل مع منتخب أمريكا في مباراتي دوري الأمم وبعدين يستلم في يونايتد الخميس اللي بعده. تفاصيل عقده مع يونايتد لسه مش معروفة.",
    "timeline": [
     {
      "date": "10 نوفمبر",
@@ -56,9 +134,17 @@
     {
      "date": "12 نوفمبر",
      "text": "رومانو: الاتفاق الشفهي خلص والإعلان متوقع خلال أيام، وسكاي: الكلام مع الاتحاد الأمريكي هيتسرّع"
+    },
+    {
+     "date": "12 نوفمبر",
+     "text": "سكاي: اتفاق مبدئي كامل، والكلام مع الاتحاد الأمريكي في مرحلة الورق، والبداية متوقعة الخميس الجاي"
     }
    ],
    "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford"
+    },
     {
      "name": "David Ornstein (عبر Football365)",
      "url": "https://www.football365.com/news/ornstein-reveals-man-utd-now-finalising-deal-chosen-carrick-replacement-ultimate-decision"
@@ -78,76 +164,6 @@
     {
      "name": "Fabrizio Romano (عبر FootballTransfers / LiveScore)",
      "url": "https://www.livescore.com/en/news/football/premier-league/man-utd-make-pochettino-decision-as-romano-reveals-carricks-fate-footballtransfers/"
-    }
-   ],
-   "updatedLabel": "12 نوفمبر"
-  },
-  {
-   "id": "carrick-exit-mun",
-   "player": "مايكل كاريك",
-   "position": "مدرب",
-   "age": 45,
-   "from": "مانشستر يونايتد",
-   "fromColor": "#DA291C",
-   "to": "إقالة متوقعة (بوكيتينو البديل المختار)",
-   "toColor": "#6B7280",
-   "fee": "",
-   "status": "advanced",
-   "summary": "بعد اجتماع موناكو مع راتكليف، القرار اتاخد تقريباً: رومانو بيقول إن الإقالة شبه محسومة ومستنية بس البيان الرسمي. سكاي بتقول إن كاريك لسه رسمياً المدرب وقاد التدريب يوم الأربع، والمتوقع يمشي قبل آخر الأسبوع. يونايتد في منطقة الهبوط وبوكيتينو هو البديل المتفق معاه شفهياً.",
-   "timeline": [
-    {
-     "date": "9 نوفمبر",
-     "text": "The Athletic: كاريك متوقع يتقال بعد نقاشات طويلة في الإدارة"
-    },
-    {
-     "date": "10 نوفمبر",
-     "text": "اجتماع الإدارة مع الملاك، وبوكيتينو في مقدمة المرشحين"
-    },
-    {
-     "date": "10 نوفمبر",
-     "text": "ESPN: اجتماع مع راتكليف في موناكو، والقرار متوقع الأربع، وكونتي انضم للمرشحين"
-    },
-    {
-     "date": "11 نوفمبر",
-     "text": "أورنستين: يونايتد بيقفل الاتفاق مع بوكيتينو، والإقالة مستنية قرار الاجتماع"
-    },
-    {
-     "date": "11 نوفمبر",
-     "text": "اجتماع موناكو اتعمل ولسه مفيش بيان رسمي، وسكاي: اتفاق شفهي مع بوكيتينو"
-    },
-    {
-     "date": "12 نوفمبر",
-     "text": "رومانو: الإقالة شبه أكيدة، وسكاي: متوقع يمشي قبل آخر الأسبوع"
-    }
-   ],
-   "sources": [
-    {
-     "name": "David Ornstein (عبر Football365)",
-     "url": "https://www.football365.com/news/ornstein-reveals-man-utd-now-finalising-deal-chosen-carrick-replacement-ultimate-decision"
-    },
-    {
-     "name": "The Athletic (عبر Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/michael-carrick-expected-pochettino-named-234037973.html"
-    },
-    {
-     "name": "The Athletic / talkSPORT (عبر Sports Illustrated)",
-     "url": "https://www.si.com/soccer/man-utd-fire-michael-carrick-relegation-zone-humiliation-report"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50441594/man-united-michael-carrick-sir-jim-ratcliffe-future-talks"
-    },
-    {
-     "name": "beIN Sports (عن EFE)",
-     "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/michael-carrick-could-be-sacked-by-manchester-united-as-ratcliffe-set-to-decide-his-future-on-wednesday-2026-11-10"
-    },
-    {
-     "name": "Sky Sports (via Yahoo/AFP)",
-     "url": "https://sports.yahoo.com/articles/man-utd-reach-verbal-agreement-173951371.html"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor"
     }
    ],
    "updatedLabel": "12 نوفمبر"
@@ -367,20 +383,28 @@
    "toColor": "#DC052D",
    "fee": "",
    "status": "rumour",
-   "summary": "كريستيان فالك من Bild بيقول إن بايرن لسه بيتكلم بخصوص نجوموها، وكان مستعد يدفع 70 مليون يورو في الصيف. ليفربول ما ردش رسمياً، والخبر من مصدر واحد لحد دلوقتي.",
+   "summary": "Bild بيقول إن بايرن لسه مهتم بنجوموها وكان مستعد يدفع 70 مليون يورو في الصيف. بس فابريزيو رومانو بيقول إن ليفربول مش هيبيع ومعملش أي تفاوض على سعر، وبيشتغل على تجديد عقد اللاعب بسرعة. يعني الصفقة بعيدة لحد دلوقتي.",
    "timeline": [
     {
      "date": "11 نوفمبر",
      "text": "Bild (فالك): بايرن لسه في كلام بخصوص نجوموها"
+    },
+    {
+     "date": "12 نوفمبر",
+     "text": "رومانو: ليفربول مش بايع وبيشتغل على تجديد عقده بسرعة"
     }
    ],
    "sources": [
     {
      "name": "ESPN Transfer Talk",
      "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins"
+    },
+    {
+     "name": "Fabrizio Romano (عبر FootballTransfers)",
+     "url": "https://www.livescore.com/en/news/football/premier-league/fabrizio-romano-transfer-news-madrid-signing-confirmed-spurs-paz-bid-ngumoha-panic-footballtransfers/"
     }
    ],
-   "updatedLabel": "11 نوفمبر"
+   "updatedLabel": "12 نوفمبر"
   }
  ]
 }
