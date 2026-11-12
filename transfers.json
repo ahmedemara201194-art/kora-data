@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T20:20:00+02:00",
- "updatedLabel": "الأربع 8:20 م",
+ "updated": "2026-11-12T12:20:00+02:00",
+ "updatedLabel": "الخميس 12:20 م",
  "items": [
   {
    "id": "raphinha-renewal-bar",
@@ -39,7 +39,7 @@
    "toColor": "#DA291C",
    "fee": "",
    "status": "advanced",
-   "summary": "سكاي سبورتس بتقول إن يونايتد وصل لاتفاق شفهي مبدئي مع بوكيتينو عشان يبقى المدرب الجديد، وده بعد ما أورنستين قال إن الشروط الشخصية بتتظبط. الصفقة مربوطة بقرار إقالة كاريك اللي لسه ما اتعلنش. عقده مع منتخب أمريكا فيه بند خروج متداول إنه حوالي 10 مليون دولار، ومدة عقده مع يونايتد لسه مش معروفة.",
+   "summary": "يونايتد وصل لاتفاق شفهي مع بوكيتينو عشان يبقى المدرب الجديد، ورومانو بيقول إن العقد وتفاصيل الجهاز المعاون بيتقفلوا والإعلان مسألة أيام. سكاي بتقول إن الكلام مع الاتحاد الأمريكي هيتسرّع بخصوص الشرط الجزائي (سكاي بتقول حوالي 7 مليون إسترليني ورومانو بيقول 10 مليون دولار). بوكيتينو متوقع يقود أمريكا في ماتشين هايتي في فترة التوقف وبعدين يستلم، ومدة عقده مع يونايتد لسه مش معروفة.",
    "timeline": [
     {
      "date": "10 نوفمبر",
@@ -52,6 +52,10 @@
     {
      "date": "11 نوفمبر",
      "text": "سكاي سبورتس: اتفاق شفهي مبدئي بين يونايتد وبوكيتينو"
+    },
+    {
+     "date": "12 نوفمبر",
+     "text": "رومانو: الاتفاق الشفهي خلص والإعلان متوقع خلال أيام، وسكاي: الكلام مع الاتحاد الأمريكي هيتسرّع"
     }
    ],
    "sources": [
@@ -66,9 +70,17 @@
     {
      "name": "Sky Sports (via Yahoo/AFP)",
      "url": "https://sports.yahoo.com/articles/man-utd-reach-verbal-agreement-173951371.html"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor"
+    },
+    {
+     "name": "Fabrizio Romano (عبر FootballTransfers / LiveScore)",
+     "url": "https://www.livescore.com/en/news/football/premier-league/man-utd-make-pochettino-decision-as-romano-reveals-carricks-fate-footballtransfers/"
     }
    ],
-   "updatedLabel": "11 نوفمبر"
+   "updatedLabel": "12 نوفمبر"
   },
   {
    "id": "carrick-exit-mun",
@@ -81,7 +93,7 @@
    "toColor": "#6B7280",
    "fee": "",
    "status": "advanced",
-   "summary": "الإدارة (برادة وويلكوكس) اجتمعت مع راتكليف في موناكو النهارده عشان تحسم مصير كاريك، والتقارير بتقول إن الإقالة هي المتوقعة. لحد بالليل مفيش إعلان رسمي، وكاريك حضر التدريب عادي. يونايتد في منطقة الهبوط بـ8 نقط من 10 ماتشات، وسكاي بتقول إن فيه اتفاق شفهي مع بوكيتينو يخلفه.",
+   "summary": "بعد اجتماع موناكو مع راتكليف، القرار اتاخد تقريباً: رومانو بيقول إن الإقالة شبه محسومة ومستنية بس البيان الرسمي. سكاي بتقول إن كاريك لسه رسمياً المدرب وقاد التدريب يوم الأربع، والمتوقع يمشي قبل آخر الأسبوع. يونايتد في منطقة الهبوط وبوكيتينو هو البديل المتفق معاه شفهياً.",
    "timeline": [
     {
      "date": "9 نوفمبر",
@@ -102,6 +114,10 @@
     {
      "date": "11 نوفمبر",
      "text": "اجتماع موناكو اتعمل ولسه مفيش بيان رسمي، وسكاي: اتفاق شفهي مع بوكيتينو"
+    },
+    {
+     "date": "12 نوفمبر",
+     "text": "رومانو: الإقالة شبه أكيدة، وسكاي: متوقع يمشي قبل آخر الأسبوع"
     }
    ],
    "sources": [
@@ -128,9 +144,13 @@
     {
      "name": "Sky Sports (via Yahoo/AFP)",
      "url": "https://sports.yahoo.com/articles/man-utd-reach-verbal-agreement-173951371.html"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor"
     }
    ],
-   "updatedLabel": "11 نوفمبر"
+   "updatedLabel": "12 نوفمبر"
   },
   {
    "id": "guler-renewal-rma",
@@ -245,6 +265,32 @@
     }
    ],
    "updatedLabel": "11 نوفمبر"
+  },
+  {
+   "id": "scott-new-che",
+   "player": "أليكس سكوت",
+   "position": "وسط",
+   "age": 23,
+   "from": "بورنموث",
+   "fromColor": "#DA291C",
+   "to": "تشيلسي",
+   "toColor": "#034694",
+   "fee": "",
+   "status": "rumour",
+   "summary": "تشيلسي من أكتر الأندية المتحمسة لضم سكوت في يناير، وليفربول كمان داخل السباق. iNews بتقول إن أرسنال كلّم بورنموث بس يفضّل يستنى للصيف. سكاي بتقول إن بورنموث ممكن يسمع عروض فوق 80 مليون إسترليني، بس مفيش عرض رسمي في الشتا لحد دلوقتي.",
+   "timeline": [
+    {
+     "date": "12 نوفمبر",
+     "text": "iNews: أرسنال اتواصل مع بورنموث، وتشيلسي وليفربول الأكثر حماس ليناير"
+    }
+   ],
+   "sources": [
+    {
+     "name": "iNews / Sky Sports (عبر CaughtOffside)",
+     "url": "https://www.caughtoffside.com/2026/11/12/arsenal-make-contact-over-alex-scott-transfer/"
+    }
+   ],
+   "updatedLabel": "12 نوفمبر"
   },
   {
    "id": "zubimendi-new-atm",
