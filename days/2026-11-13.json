@@ -1,0 +1,225 @@
+{
+ "date": "2026-11-13",
+ "label": "الجمعة 13 نوفمبر",
+ "short": "الجمعة 13",
+ "pressers": [],
+ "news": [
+  {
+   "id": "man-utd-sack-carrick",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "يونايتد أقال كاريك رسمياً",
+   "summary": "مانشستر يونايتد مشّى مايكل كاريك والفريق في المركز 18 بفوز واحد بس في الدوري. والنادي قرّب يخلّص مع بوكيتينو، وممكن يكون أول ماتش ليه قدام ليفربول في أنفيلد يوم 22 نوفمبر.",
+   "source": "ESPN",
+   "time": "12:37 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50180844/man-united-michael-carrick-sacked-pochettino"
+  },
+  {
+   "id": "ratcliffe-rookie-hires",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "اختيارات راتكليف ورّطت يونايتد",
+   "summary": "مقال رأي في ESPN بيقول إن اعتماد راتكليف على إداريين ومدربين قليلي الخبرة هو اللي وصّل يونايتد لصراع الهبوط.",
+   "source": "ESPN",
+   "time": "12:11 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50430907/manchester-united-transfers-carrick-premier-league-ratcliffe"
+  },
+  {
+   "id": "usmnt-after-pochettino",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "مين يمسك أمريكا بعد بوكيتينو؟",
+   "summary": "لو بوكيتينو راح يونايتد، منتخب أمريكا هيدوّر على مدرب جديد. محللين ESPN طرحوا أسماء ممكن تخلفه.",
+   "source": "ESPN",
+   "time": "1:29 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50443809/usmnt-losing-pochettino-man-united-replace-him"
+  },
+  {
+   "id": "italy-beat-france-esposito",
+   "comp": "أوروبا",
+   "color": "#4A5670",
+   "title": "إيطاليا تكسب فرنسا 3-1 في سان سيرو",
+   "summary": "بيو إسبوزيتو جاب جون منهم واحد من ضربة جزاء، وده أول فوز لإيطاليا على فرنسا في أرضها من 64 سنة. فرنسا لعبت من غير مبابي المصاب.",
+   "source": "ESPN",
+   "time": "1:35 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50465651/esposito-brace-italy-win-france-nations-league"
+  },
+  {
+   "id": "kane-england-caps-record",
+   "comp": "أوروبا",
+   "color": "#4A5670",
+   "title": "كين يكسر رقم شيلتون ويجيب الفوز",
+   "summary": "هاري كين لعب ماتشه رقم 126 وبقى الأكتر مشاركة في تاريخ إنجلترا، وسجّل جون الفوز من ضربة جزاء في 2-1 على كرواتيا. إنجلترا اتأهلت لربع النهائي.",
+   "source": "Sports Mole",
+   "time": "الخميس",
+   "url": "https://www.sportsmole.co.uk/football/england/uefa-nations-league/result/who-else-kane-hits-winner-on-his-special-night-to-send-england-into-final-eight_609018.html"
+  },
+  {
+   "id": "spain-perfect-czechia",
+   "comp": "أوروبا",
+   "color": "#4A5670",
+   "title": "إسبانيا العلامة الكاملة مستمرة",
+   "summary": "إسبانيا كسبت التشيك 2-0 في براغ بجون بايينا من ضربة جزاء وجون بوبيل في الآخر. 44 ماتش رسمي من غير هزيمة، والأحد قمة قدام إنجلترا في مدريد.",
+   "source": "beIN Sports",
+   "time": "الخميس",
+   "url": "https://www.beinsports.com/en-mena/football/uefa-nations-league/articles-video/spain-beat-czechia-to-retain-perfect-nations-league-record-2026-11-12"
+  },
+  {
+   "id": "yamal-oyarzabal-back-england",
+   "comp": "أوروبا",
+   "color": "#A50044",
+   "title": "يامال راجع لماتش إنجلترا",
+   "summary": "لامين يامال وأويارزابال غابوا عن ماتش التشيك، بس متوقع يرجعوا قدام إنجلترا يوم الأحد في الماتش اللي هيحدد صدارة المجموعة.",
+   "source": "Jamaica Observer",
+   "time": "الخميس",
+   "url": "https://www.jamaicaobserver.com/2026/11/12/spain-beat-czech-republic-retain-perfect-nations-league-record/"
+  },
+  {
+   "id": "belgium-comeback-turkiye",
+   "comp": "أوروبا",
+   "color": "#4A5670",
+   "title": "بلجيكا تقلب الماتش على تركيا",
+   "summary": "بلجيكا كانت متأخرة وكسبت تركيا 2-1 برة أرضها، وكده لسه عندها أمل في ربع النهائي قبل ماتشها مع إيطاليا.",
+   "source": "beIN Sports",
+   "time": "الخميس",
+   "url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/turkiye-1-2-belgium-comeback-win-keeps-quarter-final-hopes-alive-2026-11-12"
+  },
+  {
+   "id": "nations-league-friday",
+   "comp": "أوروبا",
+   "color": "#4A5670",
+   "title": "الليلة: هولندا واليونان وألمانيا في صربيا",
+   "summary": "دوري الأمم مكمّل النهارده بماتشات أبرزها هولندا قدام اليونان وصربيا قدام ألمانيا، الساعة 9:45 م بتوقيت القاهرة.",
+   "source": "ESPN",
+   "time": "الجمعة",
+   "url": "https://www.espn.com/soccer/schedule/_/league/uefa.nations"
+  }
+ ],
+ "results": [
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "إيطاليا",
+   "away": "فرنسا",
+   "hs": 3,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "إنجلترا",
+   "away": "كرواتيا",
+   "hs": 2,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "التشيك",
+   "away": "إسبانيا",
+   "hs": 0,
+   "as": 2,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "تركيا",
+   "away": "بلجيكا",
+   "hs": 1,
+   "as": 2,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "هولندا",
+   "away": "اليونان",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "صربيا",
+   "away": "ألمانيا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "اسكتلندا",
+   "away": "مقدونيا الشمالية",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "سلوفينيا",
+   "away": "سويسرا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  }
+ ],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 27
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 21
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 26
+    }
+   ]
+  }
+ ],
+ "headline_match": {
+  "label": "قمة الليلة · دوري الأمم الأوروبية",
+  "time": "9:45 م",
+  "home": "هولندا",
+  "homeCode": "NED",
+  "homeColor": "#F36C21",
+  "homeNote": "صاحب الأرض",
+  "away": "اليونان",
+  "awayCode": "GRE",
+  "awayColor": "#0D5EAF",
+  "awayNote": "جاية من غير هزيمة"
+ },
+ "updatedLabel": "الجمعة 9:01 ص"
+}
