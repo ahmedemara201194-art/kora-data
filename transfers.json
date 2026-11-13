@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T20:15:00+02:00",
- "updatedLabel": "الخميس 8:15 م",
+ "updated": "2026-11-13T12:20:00+02:00",
+ "updatedLabel": "الجمعة 12:20 م",
  "items": [
   {
    "id": "carrick-exit-mun",
@@ -115,9 +115,9 @@
    "fromColor": "#0A3161",
    "to": "مانشستر يونايتد",
    "toColor": "#DA291C",
-   "fee": "شرط جزائي 7 مليون إسترليني للاتحاد الأمريكي",
+   "fee": "تعويض حوالي 7.4 مليون إسترليني للاتحاد الأمريكي",
    "status": "advanced",
-   "summary": "بعد إقالة كاريك رسمياً، سكاي بتقول إن فيه اتفاق مبدئي كامل بين يونايتد وبوكيتينو والكلام مع الاتحاد الأمريكي وصل لمرحلة الورق والإجراءات. عقده مع أمريكا فيه شرط جزائي حوالي 7 مليون إسترليني. المتوقع يكمّل مع منتخب أمريكا في مباراتي دوري الأمم وبعدين يستلم في يونايتد الخميس اللي بعده. تفاصيل عقده مع يونايتد لسه مش معروفة.",
+   "summary": "يونايتد وبوكيتينو اتفقوا على عقد سنتين ونص لحد صيف 2029، وسكاي بتقول إن الإعلان الرسمي متوقع النهارده الجمعة بعد ما تخلص آخر التفاصيل القانونية. يونايتد هيدفع حوالي 7.4 مليون إسترليني للاتحاد الأمريكي حسب الشرط الجزائي. بوكيتينو هيقود أمريكا في ماتشين قدام هايتي الأول، وبعدين ييجي مانشستر ويبدأ التدريب الخميس الجاي، وأول ماتش له قدام ليفربول في أنفيلد يوم 22 نوفمبر.",
    "timeline": [
     {
      "date": "10 نوفمبر",
@@ -138,9 +138,21 @@
     {
      "date": "12 نوفمبر",
      "text": "سكاي: اتفاق مبدئي كامل، والكلام مع الاتحاد الأمريكي في مرحلة الورق، والبداية متوقعة الخميس الجاي"
+    },
+    {
+     "date": "13 نوفمبر",
+     "text": "سكاي: عقد لحد 2029 والإعلان الرسمي متوقع النهارده، وأول ماتش قدام ليفربول 22 نوفمبر"
     }
    ],
    "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13611745/mauricio-pochettino-manchester-united-agree-two-and-a-half-year-deal-with-usa-manager-to-replace-michael-carrick"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50452966/mauricio-pochettino-man-united-deal-sources"
+    },
     {
      "name": "Sky Sports",
      "url": "https://www.skysports.com/football/news/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford"
@@ -166,7 +178,7 @@
      "url": "https://www.livescore.com/en/news/football/premier-league/man-utd-make-pochettino-decision-as-romano-reveals-carricks-fate-footballtransfers/"
     }
    ],
-   "updatedLabel": "12 نوفمبر"
+   "updatedLabel": "13 نوفمبر"
   },
   {
    "id": "guler-renewal-rma",
@@ -357,20 +369,28 @@
    "toColor": "#EF0107",
    "fee": "",
    "status": "rumour",
-   "summary": "تقارير من talkSPORT وAS بتقول إن أرسنال ممكن يتحرك على إندريك في يناير. البرازيلي مش بياخد دقايق كفاية في مدريد، وروما وسبورتنج لشبونة كمان عايزينه على سبيل الإعارة. مفيش عرض رسمي ولا مبلغ متداول.",
+   "summary": "تقارير من talkSPORT وAS بتقول إن أرسنال ممكن يتحرك على إندريك في يناير. البرازيلي مش بياخد دقايق كفاية في مدريد، وروما وسبورتنج لشبونة كمان عايزينه على سبيل الإعارة. مفيش عرض رسمي ولا مبلغ متداول. بس تقارير جديدة بتنفي إن أرسنال مهتم أصلاً وبتقول إن مفيش انتقال في يناير.",
    "timeline": [
     {
      "date": "11 نوفمبر",
      "text": "talkSPORT وAS: أرسنال بيفكر في إندريك لشهر يناير"
+    },
+    {
+     "date": "13 نوفمبر",
+     "text": "تقارير بتنفي اهتمام أرسنال بإندريك في يناير"
     }
    ],
    "sources": [
     {
      "name": "ESPN Transfer Talk",
      "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins"
+    },
+    {
+     "name": "LiveScore",
+     "url": "https://www.livescore.com/en/news/football/team/arsenal/daily/friday-arsenal-daily-news-20261113/"
     }
    ],
-   "updatedLabel": "11 نوفمبر"
+   "updatedLabel": "13 نوفمبر"
   },
   {
    "id": "ngumoha-new-bay",
@@ -405,6 +425,32 @@
     }
    ],
    "updatedLabel": "12 نوفمبر"
+  },
+  {
+   "id": "evanilson-new-ars",
+   "player": "إيفانيلسون",
+   "position": "مهاجم",
+   "age": 26,
+   "from": "بورنموث",
+   "fromColor": "#DA291C",
+   "to": "أرسنال",
+   "toColor": "#EF0107",
+   "fee": "",
+   "status": "rumour",
+   "summary": "تقارير من TEAMtalk بتقول إن أرسنال في المقدمة لضم مهاجم بورنموث البرازيلي، ومانشستر سيتي كمان مهتم. السعر المتداول حوالي 50 مليون إسترليني بس ده رقم صحفي مش عرض رسمي. مفيش مفاوضات مؤكدة من مصدر كبير لحد دلوقتي.",
+   "timeline": [
+    {
+     "date": "13 نوفمبر",
+     "text": "TEAMtalk: أرسنال في المقدمة وسيتي منافس"
+    }
+   ],
+   "sources": [
+    {
+     "name": "LiveScore",
+     "url": "https://www.livescore.com/en/news/football/team/arsenal/daily/friday-arsenal-daily-news-20261113/"
+    }
+   ],
+   "updatedLabel": "13 نوفمبر"
   }
  ]
 }
