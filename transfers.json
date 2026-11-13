@@ -1,7 +1,93 @@
 {
- "updated": "2026-11-13T12:20:00+02:00",
- "updatedLabel": "الجمعة 12:20 م",
+ "updated": "2026-11-13T20:20:00+02:00",
+ "updatedLabel": "الجمعة 8:20 م",
  "items": [
+  {
+   "id": "pochettino-new-mun",
+   "player": "ماوريسيو بوكيتينو",
+   "position": "مدرب",
+   "age": 54,
+   "from": "منتخب أمريكا",
+   "fromColor": "#0A3161",
+   "to": "مانشستر يونايتد",
+   "toColor": "#DA291C",
+   "fee": "حوالي 7.5 مليون إسترليني (الشرط الجزائي مع الاتحاد الأمريكي)",
+   "status": "official",
+   "summary": "مانشستر يونايتد أعلن رسمياً يوم الجمعة تعيين بوكيتينو مدرب للفريق الأول خلفاً لكاريك، بعقد سنتين ونص. يونايتد فعّل الشرط الجزائي في عقده مع الاتحاد الأمريكي (حوالي 10 مليون دولار). هيستلم التدريب في كارينجتون الأربع الجاي، وأول ماتش له قدام ليفربول في أنفيلد يوم 22 نوفمبر. كيرندولو هيمسك منتخب أمريكا مؤقتاً.",
+   "timeline": [
+    {
+     "date": "10 نوفمبر",
+     "text": "بوكيتينو في مقدمة المرشحين لخلافة كاريك"
+    },
+    {
+     "date": "11 نوفمبر",
+     "text": "أورنستين: يونايتد بيقفل الاتفاق وبيظبط الشروط الشخصية"
+    },
+    {
+     "date": "11 نوفمبر",
+     "text": "سكاي سبورتس: اتفاق شفهي مبدئي بين يونايتد وبوكيتينو"
+    },
+    {
+     "date": "12 نوفمبر",
+     "text": "رومانو: الاتفاق الشفهي خلص والإعلان متوقع خلال أيام، وسكاي: الكلام مع الاتحاد الأمريكي هيتسرّع"
+    },
+    {
+     "date": "12 نوفمبر",
+     "text": "سكاي: اتفاق مبدئي كامل، والكلام مع الاتحاد الأمريكي في مرحلة الورق، والبداية متوقعة الخميس الجاي"
+    },
+    {
+     "date": "13 نوفمبر",
+     "text": "سكاي: عقد لحد 2029 والإعلان الرسمي متوقع النهارده، وأول ماتش قدام ليفربول 22 نوفمبر"
+    },
+    {
+     "date": "13 نوفمبر",
+     "text": "رسمي: يونايتد أعلن تعيين بوكيتينو بعقد سنتين ونص"
+    }
+   ],
+   "sources": [
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50469660/man-united-mauricio-pochettino-manager-michael-carrick"
+    },
+    {
+     "name": "Manchester United (البيان الرسمي عبر Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/manchester-united-confirm-mauricio-pochettino-121500717.html"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13611745/mauricio-pochettino-manchester-united-agree-two-and-a-half-year-deal-with-usa-manager-to-replace-michael-carrick"
+    },
+    {
+     "name": "ESPN",
+     "url": "https://www.espn.com/soccer/story/_/id/50452966/mauricio-pochettino-man-united-deal-sources"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford"
+    },
+    {
+     "name": "David Ornstein (عبر Football365)",
+     "url": "https://www.football365.com/news/ornstein-reveals-man-utd-now-finalising-deal-chosen-carrick-replacement-ultimate-decision"
+    },
+    {
+     "name": "The Telegraph (عبر HITC / Yahoo Sports)",
+     "url": "https://sports.yahoo.com/articles/much-manchester-united-pay-usmnt-094338690.html"
+    },
+    {
+     "name": "Sky Sports (via Yahoo/AFP)",
+     "url": "https://sports.yahoo.com/articles/man-utd-reach-verbal-agreement-173951371.html"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor"
+    },
+    {
+     "name": "Fabrizio Romano (عبر FootballTransfers / LiveScore)",
+     "url": "https://www.livescore.com/en/news/football/premier-league/man-utd-make-pochettino-decision-as-romano-reveals-carricks-fate-footballtransfers/"
+    }
+   ],
+   "updatedLabel": "13 نوفمبر"
+  },
   {
    "id": "carrick-exit-mun",
    "player": "مايكل كاريك",
@@ -105,80 +191,6 @@
     }
    ],
    "updatedLabel": "5 نوفمبر"
-  },
-  {
-   "id": "pochettino-new-mun",
-   "player": "ماوريسيو بوكيتينو",
-   "position": "مدرب",
-   "age": 54,
-   "from": "منتخب أمريكا",
-   "fromColor": "#0A3161",
-   "to": "مانشستر يونايتد",
-   "toColor": "#DA291C",
-   "fee": "تعويض حوالي 7.4 مليون إسترليني للاتحاد الأمريكي",
-   "status": "advanced",
-   "summary": "يونايتد وبوكيتينو اتفقوا على عقد سنتين ونص لحد صيف 2029، وسكاي بتقول إن الإعلان الرسمي متوقع النهارده الجمعة بعد ما تخلص آخر التفاصيل القانونية. يونايتد هيدفع حوالي 7.4 مليون إسترليني للاتحاد الأمريكي حسب الشرط الجزائي. بوكيتينو هيقود أمريكا في ماتشين قدام هايتي الأول، وبعدين ييجي مانشستر ويبدأ التدريب الخميس الجاي، وأول ماتش له قدام ليفربول في أنفيلد يوم 22 نوفمبر.",
-   "timeline": [
-    {
-     "date": "10 نوفمبر",
-     "text": "بوكيتينو في مقدمة المرشحين لخلافة كاريك"
-    },
-    {
-     "date": "11 نوفمبر",
-     "text": "أورنستين: يونايتد بيقفل الاتفاق وبيظبط الشروط الشخصية"
-    },
-    {
-     "date": "11 نوفمبر",
-     "text": "سكاي سبورتس: اتفاق شفهي مبدئي بين يونايتد وبوكيتينو"
-    },
-    {
-     "date": "12 نوفمبر",
-     "text": "رومانو: الاتفاق الشفهي خلص والإعلان متوقع خلال أيام، وسكاي: الكلام مع الاتحاد الأمريكي هيتسرّع"
-    },
-    {
-     "date": "12 نوفمبر",
-     "text": "سكاي: اتفاق مبدئي كامل، والكلام مع الاتحاد الأمريكي في مرحلة الورق، والبداية متوقعة الخميس الجاي"
-    },
-    {
-     "date": "13 نوفمبر",
-     "text": "سكاي: عقد لحد 2029 والإعلان الرسمي متوقع النهارده، وأول ماتش قدام ليفربول 22 نوفمبر"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13611745/mauricio-pochettino-manchester-united-agree-two-and-a-half-year-deal-with-usa-manager-to-replace-michael-carrick"
-    },
-    {
-     "name": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50452966/mauricio-pochettino-man-united-deal-sources"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford"
-    },
-    {
-     "name": "David Ornstein (عبر Football365)",
-     "url": "https://www.football365.com/news/ornstein-reveals-man-utd-now-finalising-deal-chosen-carrick-replacement-ultimate-decision"
-    },
-    {
-     "name": "The Telegraph (عبر HITC / Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/much-manchester-united-pay-usmnt-094338690.html"
-    },
-    {
-     "name": "Sky Sports (via Yahoo/AFP)",
-     "url": "https://sports.yahoo.com/articles/man-utd-reach-verbal-agreement-173951371.html"
-    },
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor"
-    },
-    {
-     "name": "Fabrizio Romano (عبر FootballTransfers / LiveScore)",
-     "url": "https://www.livescore.com/en/news/football/premier-league/man-utd-make-pochettino-decision-as-romano-reveals-carricks-fate-footballtransfers/"
-    }
-   ],
-   "updatedLabel": "13 نوفمبر"
   },
   {
    "id": "guler-renewal-rma",
