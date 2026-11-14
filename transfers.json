@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T12:20:00+02:00",
- "updatedLabel": "السبت 12:20 م",
+ "updated": "2026-11-14T20:20:00+02:00",
+ "updatedLabel": "السبت 8:20 م",
  "items": [
   {
    "id": "pochettino-new-mun",
@@ -305,6 +305,36 @@
     }
    ],
    "updatedLabel": "11 نوفمبر"
+  },
+  {
+   "id": "paz-new-mun",
+   "player": "نيكو باز",
+   "position": "وسط هجومي",
+   "age": 22,
+   "from": "كومو",
+   "fromColor": "#004B9E",
+   "to": "مانشستر يونايتد",
+   "toColor": "#DA291C",
+   "fee": "",
+   "status": "rumour",
+   "summary": "تقارير بتقول إن بوكيتينو عايز نيكو باز يبقى أول صفقة كبيرة ليه في يونايتد. فابريزيو رومانو قال إن فيه حوالي 20 نادي كبير في أوروبا معجبين باللاعب، بس ريال مدريد هو اللي متحكم في مستقبله. مدريد عنده بند إعادة شراء بـ80 مليون يورو يتفعّل من 1 لـ15 يوليو 2027. مفيش عرض رسمي ولا مفاوضات مؤكدة لحد دلوقتي.",
+   "timeline": [
+    {
+     "date": "14 نوفمبر",
+     "text": "رومانو: يونايتد من ضمن أندية كتير مهتمة، ومدريد متحكم ببند الـ80 مليون"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Fabrizio Romano (عبر Yardbarker)",
+     "url": "https://www.yardbarker.com/soccer/articles/romano_man_utd_would_be_keen_to_sign_nico_paz_for_mauricio_pochettino/s1_17898_44559587"
+    },
+    {
+     "name": "Marca (عبر LiveScore)",
+     "url": "https://livescore.com/en/news/football/team/real-madrid/daily/saturday-real-madrid-daily-news-20261114"
+    }
+   ],
+   "updatedLabel": "14 نوفمبر"
   },
   {
    "id": "scott-new-che",
