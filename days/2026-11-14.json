@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-14",
+ "label": "السبت 14 نوفمبر",
+ "short": "السبت 14",
+ "pressers": [],
+ "news": [
+  {
+   "id": "pochettino-man-united",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "رسمي: بوكيتينو مدرب مانشستر يونايتد",
+   "summary": "يونايتد أعلن تعيين ماوريسيو بوكيتينو خلفاً لمايكل كاريك اللي اتقال بعد حوالي 10 شهور. بوكيتينو هيمشي من تدريب منتخب أمريكا بعد ماتش 17 نوفمبر ويروح مانشستر.",
+   "source": "ESPN",
+   "time": "2:19 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50469660/man-united-mauricio-pochettino-manager-michael-carrick"
+  },
+  {
+   "id": "pochettino-tearful-exit",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "بوكيتينو بيعيط وهو بيودّع منتخب أمريكا",
+   "summary": "قال إنه \"أصعب قرار في مسيرته\". الاتحاد الأمريكي هياخد حوالي 10 مليون دولار شرط جزائي، وستيف تشيروندولو هيقود معسكر ديسمبر.",
+   "source": "ESPN",
+   "time": "2:19 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50470928/pochettino-leave-usmnt-nov-17-cherundolo-interim-december"
+  },
+  {
+   "id": "salah-egypt-record",
+   "comp": "باقي العالم",
+   "color": "#C8102E",
+   "title": "صلاح بقى الهداف التاريخي لمنتخب مصر",
+   "summary": "جاب جولين في فوز مصر 5-0 على ملاوي في تصفيات أمم أفريقيا، التاني ضربة جزاء بانينكا في الوقت بدل الضايع، ووصل لـ70 جول متخطي حسام حسن.",
+   "source": "ESPN",
+   "time": "2:19 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50475034/mohamed-salah-egypt-record-goalscorer-malawi"
+  },
+  {
+   "id": "netherlands-7-0-greece",
+   "comp": "أوروبا",
+   "color": "#F36C21",
+   "title": "هولندا تكتسح اليونان 7-0",
+   "summary": "رايندرز عمل هاتريك في 21 دقيقة وهولندا كانت متقدمة 5-0 في الشوط الأول، ودي تعادل أكبر فوز في تاريخ دوري الأمم. هولندا لسه مااتهزمتش مع تشافي.",
+   "source": "ESPN",
+   "time": "2:19 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50475345/netherlands-vs-greece-nations-league-record-xavi"
+  },
+  {
+   "id": "serbia-1-3-germany",
+   "comp": "أوروبا",
+   "color": "#4A5670",
+   "title": "ألمانيا كلوب تكسب صربيا 3-1 بره أرضها",
+   "summary": "فيرتز سجل وألمانيا كسبت قدام صربيا اللي كملت بتسعة لاعيبة. ألمانيا بقت متساوية في النقط مع اليونان ووراء هولندا بـ3 نقط، وصربيا في القاع.",
+   "source": "beIN Sports",
+   "time": "12:14 ص",
+   "url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/serbia-1-3-germany-klopps-second-win-keeps-nations-league-hopes-alive-2026-11-13"
+  },
+  {
+   "id": "trent-liverpool-return",
+   "comp": "سوق الانتقالات",
+   "color": "#FEBE10",
+   "title": "هل يرجع ألكسندر-أرنولد لليفربول؟",
+   "summary": "ترينت بقى على دكة ريال مدريد بعد ما كان بيحلم بالكورة الذهبية، وESPN بتسأل: ليفربول يرجّعه؟ وهو نفسه عايز يرجع؟",
+   "source": "ESPN",
+   "time": "11:22 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50452561/ballon-dor-real-madrid-liverpool-trent-alexander-arnold-transfer"
+  },
+  {
+   "id": "united-balogun-olise-rumors",
+   "comp": "سوق الانتقالات",
+   "color": "#DA291C",
+   "title": "يونايتد عينه على بالوجن وريال مدريد لسه عايز أوليسيه",
+   "summary": "في شائعات الانتقالات: يونايتد بيفكر في لاعيبة من منتخب أمريكا زي بالوجن عشان بوكيتينو، وريال مدريد لسه مهتم بمايكل أوليسيه.",
+   "source": "ESPN",
+   "time": "11:22 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino"
+  },
+  {
+   "id": "andorra-gk-ban",
+   "comp": "الدوري الإسباني",
+   "color": "#4A5670",
+   "title": "إيقاف حارس أندورا 12 ماتش",
+   "summary": "الحارس اتعاقب بعد الالتحام اللي أدى لوفاة مهاجم تينيريفي خيسوس دي ميجيل، الله يرحمه.",
+   "source": "ESPN",
+   "time": "2:19 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50474551/andorra-goalkeeper-jesus-owono-tenerife-death-jesus-de-miguel"
+  },
+  {
+   "id": "messi-cornella",
+   "comp": "باقي العالم",
+   "color": "#75AADB",
+   "title": "ليه ميسي مش هيعمل \"ريكسهام\" مع كورنيا؟",
+   "summary": "ميسي اشترى السنة دي نادي كورنيا من الدرجة الخامسة في إسبانيا، وESPN بتشرح ليه مشروعه مختلف عن تجربة ريكسهام.",
+   "source": "ESPN",
+   "time": "2:19 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50441349/why-messi-takeover-non-league-cornella-wrexham-repeat"
+  },
+  {
+   "id": "dortmund-rheinmetall",
+   "comp": "باقي العالم",
+   "color": "#FDE100",
+   "title": "دورتموند ينهي رعاية شركة السلاح",
+   "summary": "النادي قرر مايجددش عقد الرعاية مع راينميتال بعد انتقادات كتير من الجماهير.",
+   "source": "ESPN",
+   "time": "2:19 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50473322/borussia-dortmund-rheinmetall-sponsorship-arms-manufacturer"
+  },
+  {
+   "id": "wsl-chelsea-city",
+   "comp": "الدوري الإنجليزي",
+   "color": "#034694",
+   "title": "تشيلسي وسيتي في قمة مبكرة للسيدات",
+   "summary": "ماتش النهارده في الدوري الإنجليزي للسيدات ممكن يحدد شكل سباق اللقب بدري.",
+   "source": "ESPN",
+   "time": "5:14 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50471540/chelsea-man-city-women-super-league-wsl"
+  }
+ ],
+ "results": [
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "هولندا",
+   "away": "اليونان",
+   "hs": 7,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "صربيا",
+   "away": "ألمانيا",
+   "hs": 1,
+   "as": 3,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "اسكتلندا",
+   "away": "مقدونيا الشمالية",
+   "hs": 2,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "سلوفينيا",
+   "away": "سويسرا",
+   "hs": 0,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "بلغاريا",
+   "away": "أيسلندا",
+   "hs": 0,
+   "as": 5,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "سلوفاكيا",
+   "away": "جزر فارو",
+   "hs": 2,
+   "as": 2,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "كوسوفو",
+   "away": "إسرائيل",
+   "status": "scheduled",
+   "time": "4:00 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "جورجيا",
+   "away": "المجر",
+   "status": "scheduled",
+   "time": "7:00 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "النرويج",
+   "away": "ويلز",
+   "status": "scheduled",
+   "time": "7:00 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "البرتغال",
+   "away": "الدنمارك",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "النمسا",
+   "away": "أيرلندا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "أيرلندا الشمالية",
+   "away": "أوكرانيا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "رومانيا",
+   "away": "بولندا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "السويد",
+   "away": "البوسنة والهرسك",
+   "status": "scheduled",
+   "time": "9:45 م"
+  }
+ ],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 27
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 21
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 26
+    }
+   ]
+  }
+ ],
+ "headline_match": {
+  "label": "قمة الليلة · دوري الأمم الأوروبية",
+  "time": "9:45 م",
+  "home": "البرتغال",
+  "homeCode": "POR",
+  "homeColor": "#DA020E",
+  "homeNote": "صاحب الأرض",
+  "away": "الدنمارك",
+  "awayCode": "DEN",
+  "awayColor": "#C60C30",
+  "awayNote": "الضيف"
+ },
+ "updatedLabel": "السبت 9:00 ص"
+}
