@@ -1,0 +1,295 @@
+{
+ "date": "2026-11-15",
+ "label": "الأحد 15 نوفمبر",
+ "short": "الأحد 15",
+ "pressers": [],
+ "news": [
+  {
+   "id": "denmark-thrash-portugal",
+   "comp": "أوروبا",
+   "color": "#C60C30",
+   "title": "الدنمارك تكتسح البرتغال 4-1 بره أرضها",
+   "summary": "هويبيرج وهويلوند ودامسجارد وأندرسن جابوا الأربعة، وبرناردو سيلفا سجل هدف البرتغال الوحيد. ليلة صعبة على حامل اللقب في دوري الأمم.",
+   "source": "UEFA",
+   "time": "أمس",
+   "url": "https://www.uefa.com/uefanationsleague/news/02ab-220e66a3c090-9304054ed1ca-1000--uefa-nations-league-matchday-5-round-up-denmark-beat-por/"
+  },
+  {
+   "id": "spain-england-tonight",
+   "comp": "أوروبا",
+   "color": "#C60B1E",
+   "title": "الليلة: إسبانيا ضد إنجلترا",
+   "summary": "قمة المجموعة الثالثة في دوري الأمم الساعة 9:45 م بتوقيت القاهرة. إسبانيا كسبت التشيك 2-0 وإنجلترا كسبت كرواتيا 2-1 يوم الخميس.",
+   "source": "UEFA",
+   "time": "أمس",
+   "url": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2026-27/nations-league/spain-v-england-uefa-nations-league-sunday-15-november-2026-match-centre"
+  },
+  {
+   "id": "norway-3-1-wales",
+   "comp": "أوروبا",
+   "color": "#4A5670",
+   "title": "هالاند يسجل والنرويج تكسب ويلز 3-1",
+   "summary": "نوسا وشيلدروب سجلوا، وهالاند زوّد من ضربة جزا. ديفيد بروكس جاب هدف ويلز.",
+   "source": "UEFA",
+   "time": "أمس",
+   "url": "https://www.uefa.com/uefanationsleague/news/02ab-220e66a3c090-9304054ed1ca-1000--uefa-nations-league-matchday-5-round-up-denmark-beat-por/"
+  },
+  {
+   "id": "gyokeres-sweden-bosnia",
+   "comp": "أوروبا",
+   "color": "#DB0007",
+   "title": "جيوكيريس بضربتين جزا يقود السويد",
+   "summary": "مهاجم أرسنال سجل مرتين من نقطة الجزا والسويد كسبت البوسنة 3-2 في ماتش مجنون.",
+   "source": "UEFA",
+   "time": "أمس",
+   "url": "https://www.uefa.com/uefanationsleague/news/02ab-220e66a3c090-9304054ed1ca-1000--uefa-nations-league-matchday-5-round-up-denmark-beat-por/"
+  },
+  {
+   "id": "pochettino-starts-dorgu",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "بوكيتينو بيبدأ ودورجو قلق جديد",
+   "summary": "المدرب الجديد بيستلم شغله في يونايتد قبل ماتش ليفربول، ودورجو رجع من منتخب الدنمارك بمشكلة في العضلة الخلفية.",
+   "source": "LiveScore",
+   "time": "أمس",
+   "url": "https://www.livescore.com/en/news/football/team/manchester-united/daily/saturday-manchester-united-daily-news-20261114/"
+  },
+  {
+   "id": "united-como-targets",
+   "comp": "سوق الانتقالات",
+   "color": "#DA291C",
+   "title": "يونايتد عينه على ثنائي كومو",
+   "summary": "تقارير بتقول إن يونايتد بيتابع نيكو باز وباتورينا، وممكن بوكيتينو ياخد دعم في يناير لمدافع ومهاجم.",
+   "source": "BBC Sport",
+   "time": "أمس",
+   "url": "https://www.livescore.com/en/news/football/team/manchester-united/daily/saturday-manchester-united-daily-news-20261114/"
+  },
+  {
+   "id": "napoli-zirkzee",
+   "comp": "سوق الانتقالات",
+   "color": "#DA291C",
+   "title": "نابولي ممكن يطلب زيركزي في يناير",
+   "summary": "لو صفقة فاريلا فشلت، نابولي هيتحرك لزيركزي اللي مش واخد دقايق كفاية في يونايتد.",
+   "source": "Football Italia",
+   "time": "أمس",
+   "url": "https://www.livescore.com/en/news/football/team/manchester-united/daily/saturday-manchester-united-daily-news-20261114/"
+  },
+  {
+   "id": "barca-camp-nou-bond",
+   "comp": "الدوري الإسباني",
+   "color": "#A50044",
+   "title": "برشلونة يجمع 300 مليون يورو لكامب نو",
+   "summary": "النادي خلّص طرح سندات بـ300 مليون يورو لتكملة تجديد الملعب، ورافينيا قال إنه عايز يلعب كل دقيقة مع النادي والمنتخب.",
+   "source": "Yahoo Sports",
+   "time": "أمس",
+   "url": "https://sports.yahoo.com/articles/fc-barcelona-news-14-november-100000023.html"
+  },
+  {
+   "id": "van-dijk-withdraws",
+   "comp": "الدوري الإنجليزي",
+   "color": "#C8102E",
+   "title": "فان دايك يسيب معسكر هولندا",
+   "summary": "قائد ليفربول انسحب من المنتخب بسبب مشكلة لياقة، في وقت فيرتز سجل لألمانيا قدام صربيا.",
+   "source": "Premier League",
+   "time": "أمس",
+   "url": "https://premierleague.com/en/news/4763580/internationals-how-every-premier-league-clubs-stars-are-performing"
+  },
+  {
+   "id": "guehi-doku-city",
+   "comp": "الدوري الإنجليزي",
+   "color": "#6CABDD",
+   "title": "جيهي يتصاب ودوكو يصنع لدي بروين",
+   "summary": "جيهي انسحب من منتخب إنجلترا بإصابة، ودوكو صنع هدف لدي بروين في فوز بلجيكا على تركيا 2-1.",
+   "source": "Premier League",
+   "time": "أمس",
+   "url": "https://premierleague.com/en/news/4763580/internationals-how-every-premier-league-clubs-stars-are-performing"
+  }
+ ],
+ "results": [
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "النرويج",
+   "away": "ويلز",
+   "hs": 3,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "البرتغال",
+   "away": "الدنمارك",
+   "hs": 1,
+   "as": 4,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "جورجيا",
+   "away": "المجر",
+   "hs": 0,
+   "as": 2,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "أيرلندا الشمالية",
+   "away": "أوكرانيا",
+   "hs": 1,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "النمسا",
+   "away": "أيرلندا",
+   "hs": 1,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "كوسوفو",
+   "away": "إسرائيل",
+   "hs": 0,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "السويد",
+   "away": "البوسنة والهرسك",
+   "hs": 3,
+   "as": 2,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "رومانيا",
+   "away": "بولندا",
+   "hs": 2,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "لاتفيا",
+   "away": "أرمينيا",
+   "status": "scheduled",
+   "time": "4:00 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "قبرص",
+   "away": "الجبل الأسود",
+   "status": "scheduled",
+   "time": "4:00 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "فنلندا",
+   "away": "سان مارينو",
+   "status": "scheduled",
+   "time": "7:00 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "بيلاروسيا",
+   "away": "ألبانيا",
+   "status": "scheduled",
+   "time": "7:00 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "فرنسا",
+   "away": "تركيا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "بلجيكا",
+   "away": "إيطاليا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "كرواتيا",
+   "away": "التشيك",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "إسبانيا",
+   "away": "إنجلترا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  }
+ ],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 27
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 21
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 26
+    }
+   ]
+  }
+ ],
+ "headline_match": {
+  "label": "قمة الليلة · دوري الأمم الأوروبية",
+  "time": "9:45 م",
+  "home": "إسبانيا",
+  "homeCode": "ESP",
+  "homeColor": "#C60B1E",
+  "homeNote": "كسبت التشيك 2-0",
+  "away": "إنجلترا",
+  "awayCode": "ENG",
+  "awayColor": "#1D3A8A",
+  "awayNote": "كسبت كرواتيا 2-1"
+ },
+ "updatedLabel": "الأحد 9:05 ص"
+}
