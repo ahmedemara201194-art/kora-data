@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T20:20:00+02:00",
- "updatedLabel": "السبت 8:20 م",
+ "updated": "2026-11-15T20:20:00+02:00",
+ "updatedLabel": "الحد 8:20 م",
  "items": [
   {
    "id": "pochettino-new-mun",
@@ -411,7 +411,7 @@
    "toColor": "#EF0107",
    "fee": "",
    "status": "rumour",
-   "summary": "تقارير من talkSPORT وAS بتقول إن أرسنال ممكن يتحرك على إندريك في يناير. البرازيلي مش بياخد دقايق كفاية في مدريد، وروما وسبورتنج لشبونة كمان عايزينه على سبيل الإعارة. مفيش عرض رسمي ولا مبلغ متداول. بس تقارير جديدة بتنفي إن أرسنال مهتم أصلاً وبتقول إن مفيش انتقال في يناير.",
+   "summary": "تقارير من talkSPORT وAS قالت إن أرسنال ممكن يتحرك على إندريك في يناير، بس تقارير تانية نفت الاهتمام ده. البرازيلي مش بياخد دقايق كفاية في مدريد، وجازيتا ديلو سبورت بتقول إن ميلان عايزه إعارة مع خيار الشراء، وروما وسبورتنج كمان في الصورة. مفيش عرض رسمي ولا مبلغ متداول.",
    "timeline": [
     {
      "date": "11 نوفمبر",
@@ -420,9 +420,17 @@
     {
      "date": "13 نوفمبر",
      "text": "تقارير بتنفي اهتمام أرسنال بإندريك في يناير"
+    },
+    {
+     "date": "15 نوفمبر",
+     "text": "جازيتا (عبر ESPN): ميلان عايز إندريك إعارة بخيار شراء"
     }
    ],
    "sources": [
+    {
+     "name": "ESPN Transfer Talk",
+     "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear"
+    },
     {
      "name": "ESPN Transfer Talk",
      "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins"
@@ -432,7 +440,7 @@
      "url": "https://www.livescore.com/en/news/football/team/arsenal/daily/friday-arsenal-daily-news-20261113/"
     }
    ],
-   "updatedLabel": "13 نوفمبر"
+   "updatedLabel": "15 نوفمبر"
   },
   {
    "id": "ngumoha-new-bay",
@@ -493,6 +501,58 @@
     }
    ],
    "updatedLabel": "13 نوفمبر"
+  },
+  {
+   "id": "porro-new-bar",
+   "player": "بيدرو بورو",
+   "position": "ظهير يمين",
+   "age": 27,
+   "from": "توتنهام",
+   "fromColor": "#132257",
+   "to": "برشلونة",
+   "toColor": "#A50044",
+   "fee": "",
+   "status": "rumour",
+   "summary": "صحيفة Sport بتقول إن برشلونة حاطط بورو في دماغه للصيف الجاي، وممكن يدفع لحد 50 مليون يورو، في حين إن توتنهام مقيّمه بحوالي 70 مليون. اللاعب لو ساب توتنهام عايز يروح برشلونة بالذات، وريال مدريد كمان متابعه. لسه مفيش مفاوضات رسمية.",
+   "timeline": [
+    {
+     "date": "15 نوفمبر",
+     "text": "Sport: برشلونة بيفكر في بورو للصيف، وفجوة في التقييم مع توتنهام"
+    }
+   ],
+   "sources": [
+    {
+     "name": "ESPN Transfer Talk",
+     "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear"
+    }
+   ],
+   "updatedLabel": "15 نوفمبر"
+  },
+  {
+   "id": "araujo-new-liv",
+   "player": "رونالد أراوخو",
+   "position": "مدافع",
+   "age": 27,
+   "from": "برشلونة",
+   "fromColor": "#A50044",
+   "to": "ليفربول",
+   "toColor": "#C8102E",
+   "fee": "",
+   "status": "rumour",
+   "summary": "أراوخو بيلعب في ليفربول على سبيل الإعارة من برشلونة، وماركا بتقول إن ليفربول عنده خيار يشتريه نهائي بحوالي 55 مليون يورو. القرار لسه ماتاخدش، والموضوع مرتبط بمستواه مع الفريق الموسم ده.",
+   "timeline": [
+    {
+     "date": "15 نوفمبر",
+     "text": "ماركا: ليفربول عنده خيار شراء أراوخو نهائياً بـ55 مليون يورو"
+    }
+   ],
+   "sources": [
+    {
+     "name": "ESPN Transfer Talk",
+     "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear"
+    }
+   ],
+   "updatedLabel": "15 نوفمبر"
   }
  ]
 }
