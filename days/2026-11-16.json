@@ -1,0 +1,329 @@
+{
+ "date": "2026-11-16",
+ "label": "الاتنين 16 نوفمبر",
+ "short": "الاتنين 16",
+ "pressers": [],
+ "news": [
+  {
+   "id": "england-end-spain-run",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "إنجلترا تكسر سلسلة إسبانيا في مدريد",
+   "summary": "إنجلترا كسبت إسبانيا 3-2 في مدريد بأهداف كين (جزا) وكونسا وبن وايت، وأنهت سلسلة 43 ماتش من غير هزيمة لبطل العالم. إنجلترا كمّلت بعشرة بعد طرد أندرسون واتصدرت المجموعة.",
+   "source": "ESPN",
+   "time": "3:40 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50493712/england-spain-43-game-unbeaten-run"
+  },
+  {
+   "id": "tuchel-statement-win",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "توخيل لقى الماتش اللي كان مستنيه",
+   "summary": "ESPN شايفة إن الفوز على إسبانيا هو الرسالة اللي فريق توخيل كان محتاجها عشان يصدق إنه يقدر ينافس في الكبار. ومدرب إسبانيا اعترف إن فريقه اتغلب في البداية.",
+   "source": "ESPN",
+   "time": "1:18 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50494867/england-spain-nations-league-win-tuchel"
+  },
+  {
+   "id": "belgium-thrash-italy",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "بلجيكا تكتسح إيطاليا 4-1 وتتأهل",
+   "summary": "إيطاليا سبقت بهدف بيو إسبوزيتو، وبعدين بلجيكا ردت بأربعة من دي كويبر ونجوي ودوكو ومورييرا، ودي بروين صنع هدفين. بلجيكا في ربع النهائي.",
+   "source": "101 Great Goals",
+   "time": "12:00 ص",
+   "url": "https://www.101greatgoals.com/football/internationals/nations-league-round-up-belgium-thrash-italy-as-france-beat-turkey/"
+  },
+  {
+   "id": "france-beat-turkey",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "فرنسا تكسب تركيا وتخلص المجموعة في الصدارة",
+   "summary": "فرنسا كسبت 2-1 في بوردو بهدف عكسي من إمرهان توبتشو وهدف لكروبي، وبارداكجي قلّل في الدقيقة 90. فرنسا متصدرة مجموعتها ورايحة ربع النهائي.",
+   "source": "UEFA",
+   "time": "امبارح",
+   "url": "https://www.uefa.com/uefanationsleague/news/02ab-22146db70e40-12d581ab82a9-1000--uefa-nations-league-matchday-6-belgium-france-into-last-eigh/"
+  },
+  {
+   "id": "croatia-beat-czechia",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "كرواتيا تكسب التشيك والتشيك تخسر للمرة السادسة",
+   "summary": "كرواتيا كسبت 2-1 بأهداف بيريشيتش وماير، وهلوزيك سجل للتشيك. دي سادس هزيمة ورا بعض للتشيك في المستوى A.",
+   "source": "UEFA",
+   "time": "امبارح",
+   "url": "https://www.uefa.com/uefanationsleague/news/02ab-22146db70e40-12d581ab82a9-1000--uefa-nations-league-matchday-6-belgium-france-into-last-eigh/"
+  },
+  {
+   "id": "pochettino-united-todo",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "إيه اللي مستني بوكيتينو في يونايتد؟",
+   "summary": "ESPN حطت قايمة بالمشاكل اللي بوكيتينو ورثها في مانشستر يونايتد وأولوياته الأولى، وشايفة إن النادي أخيراً جاب مدرب عنده خبرة وثقل.",
+   "source": "ESPN",
+   "time": "1:35 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50462231/mauricio-pochettino-manchester-united-transfer-usmnt"
+  },
+  {
+   "id": "bruno-contract-wait",
+   "comp": "سوق الانتقالات",
+   "color": "#DA291C",
+   "title": "برونو فيرنانديز مأجل التجديد",
+   "summary": "حسب The Sun، برونو مستني قبل ما يمضي عقد جديد مع يونايتد وعقده بيخلص الصيف الجاي، وفيه اهتمام من السعودية.",
+   "source": "ESPN",
+   "time": "12:30 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear"
+  },
+  {
+   "id": "arsenal-lankshear-nusa",
+   "comp": "سوق الانتقالات",
+   "color": "#DB0007",
+   "title": "أرسنال عينه على لانكشير ونوسا",
+   "summary": "أرسنال دخل في سباق ويل لانكشير مهاجم ميدلزبره، وكمان أنطونيو نوسا جناح لايبزيج هدفه الأول على الشمال وسعره حوالي 80 مليون يورو.",
+   "source": "ESPN",
+   "time": "12:30 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear"
+  },
+  {
+   "id": "porro-barcelona",
+   "comp": "سوق الانتقالات",
+   "color": "#A50044",
+   "title": "بورو عايز برشلونة بس",
+   "summary": "بيدرو بورو لو ساب توتنهام عايز يروح برشلونة بالذات. برشلونة بيفكر في 50 مليون يورو، وتوتنهام طالب 70.",
+   "source": "ESPN",
+   "time": "12:30 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear"
+  },
+  {
+   "id": "araujo-liverpool-clause",
+   "comp": "سوق الانتقالات",
+   "color": "#C8102E",
+   "title": "ليفربول عايز يشتري أراوخو بدري",
+   "summary": "حسب ماركا، ليفربول نفسه يفعّل بند الشراء النهائي لأراوخو (55 مليون يورو) في يناير، بس عقد الإعارة مش بيسمح بده غير في آخر الموسم.",
+   "source": "ESPN",
+   "time": "12:30 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear"
+  },
+  {
+   "id": "ronaldinho-ravenna",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "رونالدينيو رجع يلعب وعنده 46 سنة",
+   "summary": "رونالدينيو لعب أساسي مع رافينا في الدرجة التالتة الإيطالية ضد فورلي وخرج بين الشوطين، ولسه رصيده 299 هدف وبيدوّر على الهدف رقم 300.",
+   "source": "ESPN",
+   "time": "3:40 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50491487/ronaldinho-comeback-300-goals-ravenna-serie-c"
+  },
+  {
+   "id": "tenerife-de-miguel-tribute",
+   "comp": "الدوري الإسباني",
+   "color": "#4A5670",
+   "title": "تينيريفي يكرّم لاعبه الراحل دي ميجيل",
+   "summary": "تينيريفي كرّم المهاجم الراحل خيسوس دي ميجيل في أول ماتش بعد وفاته، وزميله رفع قميصه بعد ما سجل. الله يرحمه.",
+   "source": "ESPN",
+   "time": "3:40 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50491662/tenerife-tribute-jesus-de-miguel-first-match-death"
+  }
+ ],
+ "results": [
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "بلجيكا",
+   "away": "إيطاليا",
+   "hs": 4,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "فرنسا",
+   "away": "تركيا",
+   "hs": 2,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "إسبانيا",
+   "away": "إنجلترا",
+   "hs": 2,
+   "as": 3,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "كرواتيا",
+   "away": "التشيك",
+   "hs": 2,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "بيلاروسيا",
+   "away": "ألبانيا",
+   "hs": 0,
+   "as": 2,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "فنلندا",
+   "away": "سان مارينو",
+   "hs": 7,
+   "as": 2,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "قبرص",
+   "away": "الجبل الأسود",
+   "hs": 1,
+   "as": 4,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "لاتفيا",
+   "away": "أرمينيا",
+   "hs": 0,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "جزر فارو",
+   "away": "مولدوفا",
+   "status": "scheduled",
+   "time": "5:00 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "كازاخستان",
+   "away": "سلوفاكيا",
+   "status": "scheduled",
+   "time": "5:00 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "إستونيا",
+   "away": "بلغاريا",
+   "status": "scheduled",
+   "time": "7:00 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "أيسلندا",
+   "away": "لوكسمبورج",
+   "status": "scheduled",
+   "time": "7:00 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "ليتوانيا",
+   "away": "ليختنشتاين",
+   "status": "scheduled",
+   "time": "7:00 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "ألمانيا",
+   "away": "هولندا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "اليونان",
+   "away": "صربيا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "مقدونيا الشمالية",
+   "away": "سلوفينيا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "سويسرا",
+   "away": "اسكتلندا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "جبل طارق",
+   "away": "مالطا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  }
+ ],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 27
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 21
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 26
+    }
+   ]
+  }
+ ],
+ "headline_match": {
+  "label": "قمة الليلة · دوري الأمم الأوروبية",
+  "time": "9:45 م",
+  "home": "ألمانيا",
+  "homeCode": "GER",
+  "homeColor": "#1A1A1A",
+  "homeNote": "المجموعة A2",
+  "away": "هولندا",
+  "awayCode": "NED",
+  "awayColor": "#F36C21",
+  "awayNote": "المجموعة A2"
+ },
+ "updatedLabel": "الاتنين 9:20 ص"
+}
