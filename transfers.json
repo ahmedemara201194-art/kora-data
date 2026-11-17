@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T20:14:00+02:00",
- "updatedLabel": "الاتنين 8:14 م",
+ "updated": "2026-11-17T12:20:00+02:00",
+ "updatedLabel": "التلات 12:20 م",
  "items": [
   {
    "id": "pochettino-new-mun",
@@ -381,7 +381,7 @@
    "toColor": "#CB3524",
    "fee": "",
    "status": "rumour",
-   "summary": "AS وصحيفة Sport بيقولوا إن أتلتيكو حاطط زوبيميندي في حساباته كهدف محتمل في يناير أو الصيف. أتلتيكو كان حاول يجيبه وهو في ريال سوسيداد بس أرسنال سبقه. مفيش عرض رسمي ولا مبلغ متداول من مصدر موثوق، وريال مدريد وتشيلسي كمان اسمهم اتربط باللاعب حسب ESPN.",
+   "summary": "AS وSport قالوا إن أتلتيكو حاطط زوبيميندي في حساباته ليناير أو الصيف، بعد ما كان حاول يجيبه من ريال سوسيداد وأرسنال سبقه. بس اللاعب نفسه قال لماركا إنه مبسوط في أرسنال ومحدش كلمه، ووصف الانتقال لأتلتيكو بإنه بعيد. مفيش عرض رسمي ولا مبلغ متداول من مصدر موثوق.",
    "timeline": [
     {
      "date": "10 نوفمبر",
@@ -390,6 +390,10 @@
     {
      "date": "11 نوفمبر",
      "text": "ESPN: مدريد وأتلتيكو وتشيلسي مهتمين بزوبيميندي"
+    },
+    {
+     "date": "11 نوفمبر",
+     "text": "زوبيميندي لماركا: مبسوط في لندن ونفى إن فيه أي تواصل مع أتلتيكو"
     }
    ],
    "sources": [
@@ -404,6 +408,10 @@
     {
      "name": "ESPN Transfer Talk",
      "url": "https://www.espn.com/soccer/story/_/id/50451226/transfer-rumors-news-gossip-manchester-united-brentford-nathan-collins"
+    },
+    {
+     "name": "SoccerNews (عن ماركا)",
+     "url": "https://www.soccernews.com/zubimendi-not-considering-arsenal-departure-amid-atletico-real-madrid-rumours/408017/"
     }
    ],
    "updatedLabel": "11 نوفمبر"
