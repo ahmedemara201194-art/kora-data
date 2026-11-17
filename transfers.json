@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T12:20:00+02:00",
- "updatedLabel": "التلات 12:20 م",
+ "updated": "2026-11-17T20:15:00+02:00",
+ "updatedLabel": "التلات 8:15 م",
  "items": [
   {
    "id": "pochettino-new-mun",
@@ -273,6 +273,36 @@
    "updatedLabel": "6 نوفمبر"
   },
   {
+   "id": "rice-renewal-ars",
+   "player": "ديكلان رايس",
+   "position": "وسط",
+   "age": 27,
+   "from": "أرسنال",
+   "fromColor": "#EF0107",
+   "to": "أرسنال (تجديد)",
+   "toColor": "#EF0107",
+   "fee": "",
+   "status": "advanced",
+   "summary": "رايس وافق شفهياً على عقد جديد مع أرسنال حسب سكاي سبورتس نيوز، بعد ما رومانو كان قال في أكتوبر إن التجديد على وشك يخلص. عقده الحالي لحد 2028 مع سنة اختيارية للنادي. فاضل التوقيع والإعلان الرسمي.",
+   "timeline": [
+    {
+     "date": "16 نوفمبر",
+     "text": "سكاي: رايس وافق شفهياً على العقد الجديد"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts"
+    },
+    {
+     "name": "Fabrizio Romano (عبر FootballTransfers)",
+     "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/arsenal-transfer-news-declan-rice-contract-extension-fabrizio-romano"
+    }
+   ],
+   "updatedLabel": "17 نوفمبر"
+  },
+  {
    "id": "courtois-renewal-rma",
    "player": "تيبو كورتوا",
    "position": "حارس مرمى",
@@ -305,6 +335,58 @@
     }
    ],
    "updatedLabel": "11 نوفمبر"
+  },
+  {
+   "id": "raya-renewal-ars",
+   "player": "دافيد رايا",
+   "position": "حارس مرمى",
+   "age": 31,
+   "from": "أرسنال",
+   "fromColor": "#EF0107",
+   "to": "أرسنال (تجديد)",
+   "toColor": "#EF0107",
+   "fee": "",
+   "status": "talks",
+   "summary": "رايا قرّب جداً من تمديد عقده اللي بيخلص 2028، حسب سكاي سبورتس. أرسنال بيقفل ملفات التجديد واحد ورا التاني بعد ساكا وصليبا وجابرييل. لسه مفيش أي تفاصيل عن مدة العقد الجديد.",
+   "timeline": [
+    {
+     "date": "17 نوفمبر",
+     "text": "سكاي: رايا على وشك التجديد"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts"
+    }
+   ],
+   "updatedLabel": "17 نوفمبر"
+  },
+  {
+   "id": "timber-renewal-ars",
+   "player": "يوريين تيمبر",
+   "position": "ظهير أيمن",
+   "age": 25,
+   "from": "أرسنال",
+   "fromColor": "#EF0107",
+   "to": "أرسنال (تجديد)",
+   "toColor": "#EF0107",
+   "fee": "",
+   "status": "talks",
+   "summary": "تيمبر كمان قريب من تجديد عقده اللي بيخلص 2028. اللاعب نفسه قال إن الأخبار \"ماشية في الطريق الصح\" وإنه حاسس إنه في بيته. وأرسنال كمان واثق إن هينكابي هيجدد.",
+   "timeline": [
+    {
+     "date": "17 نوفمبر",
+     "text": "تيمبر يلمّح إن التجديد قريب"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts"
+    }
+   ],
+   "updatedLabel": "17 نوفمبر"
   },
   {
    "id": "paz-new-mun",
