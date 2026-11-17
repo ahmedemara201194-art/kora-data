@@ -1,0 +1,311 @@
+{
+ "date": "2026-11-17",
+ "label": "التلات 17 نوفمبر",
+ "short": "التلات 17",
+ "pressers": [],
+ "news": [
+  {
+   "id": "germany-rout-netherlands",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "ألمانيا تكتسح هولندا بخماسية",
+   "summary": "ألمانيا فازت 5-0 على هولندا وفيرتس جاب جولين، وضمنت صدارة المجموعة والتأهل لربع نهائي دوري الأمم. كلوب قال إن محدش بقى يشكك في الفريق.",
+   "source": "ESPN",
+   "time": "3:57 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50505834/klopp-germany-netherlands-rout"
+  },
+  {
+   "id": "rice-new-deal",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DB0007",
+   "title": "رايس قرّب يجدد مع أرسنال لـ2031",
+   "summary": "مصادر ESPN بتقول إن ديكلان رايس وافق مبدئياً على عقد جديد لمدة 5 سنين مع أرسنال، المتصدر بفارق 5 نقط.",
+   "source": "ESPN",
+   "time": "3:57 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50505152/declan-rice-five-year-arsenal-deal"
+  },
+  {
+   "id": "vinicius-arsenal-links",
+   "comp": "الدوري الإسباني",
+   "color": "#FEBE10",
+   "title": "فينيسيوس: كلام أرسنال لخبطني",
+   "summary": "نجم ريال مدريد اعترف إن الكلام عن رحيله لأرسنال في الصيف أثّر عليه، وده جزء من سبب بدايته البطيئة للموسم.",
+   "source": "ESPN",
+   "time": "3:57 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50501260/vinicius-junior-real-madrid-arsenal-transfer-interest"
+  },
+  {
+   "id": "united-mckennie",
+   "comp": "سوق الانتقالات",
+   "color": "#DA291C",
+   "title": "يونايتد عينه على ماكيني",
+   "summary": "بوكيتينو، مدرب مانشستر يونايتد الجديد، عايز يجيب ويستون ماكيني بسرعة بعد ما اشتغلوا مع بعض في منتخب أمريكا.",
+   "source": "ESPN",
+   "time": "4:22 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50499498/transfer-rumors-news-usmnt-pochettino-mckennie-man-united"
+  },
+  {
+   "id": "poch-pep-usmnt",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "بوكيتينو ينصح جوارديولا بتدريب أمريكا",
+   "summary": "في آخر يوم ليه مع منتخب أمريكا، بوكيتينو قال إنه لو جوارديولا اتعرض عليه المنصب ياخده، وإن ده وقت مثالي للوصول.",
+   "source": "ESPN",
+   "time": "3:57 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50504817/poch-pep-advice-usmnt-job"
+  },
+  {
+   "id": "ronaldo-mom-jesus",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "أزمة بين والدة رونالدو وجورجي جيسوس",
+   "summary": "مدرب البرتغال دافع عن نفسه بعد هجوم دولوريس أفيرو، والدة كريستيانو، على المنتخب بسبب تكريم. البرتغال تلعب ويلز الليلة.",
+   "source": "ESPN",
+   "time": "3:57 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50503146/jorge-jesus-controversy-ronaldo-mom-portugal-tribute"
+  },
+  {
+   "id": "diallo-fifa-election",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "رئيس الاتحاد الفرنسي هينافس إنفانتينو",
+   "summary": "فيليب ديالو أعلن إنه هيترشح على رئاسة فيفا السنة الجاية قدام جياني إنفانتينو، رغم إن التوقعات بتميل لإعادة انتخاب إنفانتينو.",
+   "source": "ESPN",
+   "time": "3:57 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50501932/fifa-uefa-gianni-infantino-philippe-diallo-fff"
+  },
+  {
+   "id": "emi-martinez-return",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "إيمي مارتينيز راجع بماسك",
+   "summary": "حارس الأرجنتين رجع للقائمة قبل ودية كوستاريكا بعد شهر غياب وعملية في الفك، وهيلعب بقناع واقي.",
+   "source": "ESPN",
+   "time": "3:57 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50505748/martinez-return-argentina-gruesome-jaw-injury"
+  },
+  {
+   "id": "nico-paz-no10",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "نيكو باز.. وريث رقم 10 بتاع ميسي",
+   "summary": "لاعب كومو الشاب بقى من أبرز المواهب في أوروبا، والأرجنتين شايفاه الخليفة الطبيعي لقميص ميسي رقم 10.",
+   "source": "ESPN",
+   "time": "11:02 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50460862/nico-paz-como-argentina-lionel-messi"
+  },
+  {
+   "id": "ucl-ball-nike",
+   "comp": "أوروبا",
+   "color": "#4A5670",
+   "title": "كورة النجوم في دوري الأبطال ممكن تتغير",
+   "summary": "نايكي هتاخد مكان أديداس كمورّد كورة دوري الأبطال، وده بيفتح السؤال عن مستقبل تصميم النجوم الشهير.",
+   "source": "ESPN",
+   "time": "3:57 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/49730333/uefa-champions-league-adidas-nike-ball"
+  }
+ ],
+ "results": [
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "ألمانيا",
+   "away": "هولندا",
+   "hs": 5,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "اليونان",
+   "away": "صربيا",
+   "hs": 1,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "مقدونيا الشمالية",
+   "away": "سلوفينيا",
+   "hs": 0,
+   "as": 3,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "سويسرا",
+   "away": "اسكتلندا",
+   "hs": 4,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "جزر فارو",
+   "away": "مولدوفا",
+   "hs": 1,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "كازاخستان",
+   "away": "سلوفاكيا",
+   "hs": 2,
+   "as": 2,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "إستونيا",
+   "away": "بلغاريا",
+   "hs": 2,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "أيسلندا",
+   "away": "لوكسمبورج",
+   "hs": 3,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "جبل طارق",
+   "away": "مالطا",
+   "hs": 1,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "ليتوانيا",
+   "away": "ليختنشتاين",
+   "hs": 2,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "الدنمارك",
+   "away": "النرويج",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "ويلز",
+   "away": "البرتغال",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "المجر",
+   "away": "أيرلندا الشمالية",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "أوكرانيا",
+   "away": "جورجيا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "إسرائيل",
+   "away": "النمسا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "أيرلندا",
+   "away": "كوسوفو",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "البوسنة والهرسك",
+   "away": "رومانيا",
+   "status": "scheduled",
+   "time": "9:45 م"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "بولندا",
+   "away": "السويد",
+   "status": "scheduled",
+   "time": "9:45 م"
+  }
+ ],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 27
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 21
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 26
+    }
+   ]
+  }
+ ],
+ "headline_match": {
+  "label": "قمة الليلة · دوري الأمم الأوروبية",
+  "time": "9:45 م",
+  "home": "ويلز",
+  "homeCode": "WAL",
+  "homeColor": "#C8102E",
+  "homeNote": "المجموعة A4",
+  "away": "البرتغال",
+  "awayCode": "POR",
+  "awayColor": "#006600",
+  "awayNote": "المجموعة A4"
+ },
+ "updatedLabel": "التلات 9:10 ص"
+}
