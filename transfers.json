@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T20:15:00+02:00",
- "updatedLabel": "التلات 8:15 م",
+ "updated": "2026-11-18T12:20:00+02:00",
+ "updatedLabel": "الأربع 12:20 م",
  "items": [
   {
    "id": "pochettino-new-mun",
@@ -384,6 +384,32 @@
     {
      "name": "Sky Sports",
      "url": "https://www.skysports.com/football/news/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts"
+    }
+   ],
+   "updatedLabel": "17 نوفمبر"
+  },
+  {
+   "id": "alexander-arnold-exit-rma",
+   "player": "ترينت ألكسندر أرنولد",
+   "position": "ظهير أيمن",
+   "age": 28,
+   "from": "ريال مدريد",
+   "fromColor": "#FEBE10",
+   "to": "ليفربول / تشيلسي",
+   "toColor": "#034694",
+   "fee": "",
+   "status": "rumour",
+   "summary": "سكاي ألمانيا بتقول إن ريال مدريد مستعد يسمع عروض لترينت، بعد ما تجربته في مدريد ماكانتش ناجحة من ساعة ما وصل الموسم اللي فات. نفس التقرير قلّل من فرص بايرن، وده بيفتح باب رجوعه للبريميرليج. ليفربول وتشيلسي اتربطوا بيه، بس فابريزيو رومانو قلّل من فكرة رجوعه لليفربول. مفيش عرض رسمي ولا رقم معروف.",
+   "timeline": [
+    {
+     "date": "17 نوفمبر",
+     "text": "سكاي ألمانيا: مدريد مفتوح لعروض بيع ترينت، وبايرن مستبعد"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sky Germany (عبر CaughtOffside)",
+     "url": "https://www.caughtoffside.com/2026/11/17/liverpool-and-chelsea-get-trent-alexander-arnold-transfer-boost/"
     }
    ],
    "updatedLabel": "17 نوفمبر"
