@@ -1,0 +1,261 @@
+{
+ "date": "2026-11-18",
+ "label": "الأربعاء 18 نوفمبر",
+ "short": "الأربعاء 18",
+ "pressers": [],
+ "news": [
+  {
+   "id": "norway-stun-denmark",
+   "comp": "أوروبا",
+   "color": "#4A5670",
+   "title": "هالاند يخطف التأهل من كوبنهاجن",
+   "summary": "الدنمارك كانت متقدمة 2-0 بدري، لكن النرويج رجعت وكسبت 3-2 بضربة جزا لهالاند في الدقيقة 96. النرويج طلعت لربع نهائي دوري الأمم والدنمارك خرجت.",
+   "source": "AP",
+   "time": "11:57 م",
+   "url": "https://www.news4jax.com/sports/2026/11/17/ten-man-portugal-wins-with-a-goal-from-new-no-7-in-nations-league-and-norway-stuns-denmark/"
+  },
+  {
+   "id": "portugal-win-wales",
+   "comp": "أوروبا",
+   "color": "#4A5670",
+   "title": "البرتغال بعشرة تكسب ويلز 3-2",
+   "summary": "برونو فيرنانديز وبيدرو نيتو وكارلوس فوربس جابوا الأهداف، ونيتو اتطرد. البرتغال خلصت أول المجموعة بخمس انتصارات من ست ماتشات.",
+   "source": "AP",
+   "time": "11:57 م",
+   "url": "https://www.news4jax.com/sports/2026/11/17/ten-man-portugal-wins-with-a-goal-from-new-no-7-in-nations-league-and-norway-stuns-denmark/"
+  },
+  {
+   "id": "nations-league-promotions",
+   "comp": "أوروبا",
+   "color": "#4A5670",
+   "title": "النمسا والسويد وأيرلندا الشمالية للمستوى A",
+   "summary": "التلاتة اتعادلوا في آخر ماتش وصعدوا للمستوى الأول في دوري الأمم. وقرعة ربع النهائي يوم الجمعة، والماتشات في مارس.",
+   "source": "AP",
+   "time": "11:57 م",
+   "url": "https://www.news4jax.com/sports/2026/11/17/ten-man-portugal-wins-with-a-goal-from-new-no-7-in-nations-league-and-norway-stuns-denmark/"
+  },
+  {
+   "id": "argentina-thrash-costa-rica",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "الأرجنتين تكتسح كوستاريكا بسباعية",
+   "summary": "نيكو باز وألفاريز وماستانتونو جابوا جول اتنين كل واحد، وماك أليستر سجل السابع في قرطبة. وإيمي مارتينيز رجع للمرمى بعد إصابة الفك.",
+   "source": "IANS",
+   "time": "5:43 ص",
+   "url": "https://www.socialnews.xyz/2026/11/17/argentina-routs-costa-rica-in-friendly/"
+  },
+  {
+   "id": "vinicius-hattrick-brazil",
+   "comp": "باقي العالم",
+   "color": "#FEBE10",
+   "title": "هاتريك لفينيسيوس في 20 دقيقة",
+   "summary": "البرازيل كسبت سنغافورة 7-0 بعد الخسارة من اليابان، وفيني جاب تلاتة في أول تلت ساعة. أنشيلوتي اتفرج من المدرجات بسبب الإيقاف.",
+   "source": "365Scores",
+   "time": "1:51 م",
+   "url": "https://www.365scores.com/pt-br/news/magazine/brasil-goleia-singapura-amistoso-hat-trick-vinicius-junior/"
+  },
+  {
+   "id": "egypt-held-malawi",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "مصر تتعادل سلبي مع مالاوي",
+   "summary": "صلاح ضرب القايم في الدقيقة 69 والماتش خلص 0-0 في ليلونجوي. مصر تانية في المجموعة بـ8 نقط ورا أنجولا، ومحتاجة فوز كمان عشان تضمن التأهل.",
+   "source": "DNE Africa",
+   "time": "امبارح",
+   "url": "https://africa.dailynewsegypt.com/malawi-v-egypt-goalless-draw/"
+  },
+  {
+   "id": "rice-arsenal-deal",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DB0007",
+   "title": "رايس قرّب يجدد مع أرسنال لـ2031",
+   "summary": "ديكلان رايس وافق مبدئياً على عقد جديد خمس سنين مع أرسنال. وهو نفسه قال إن التجديد هيتعلن قريب إن شاء الله.",
+   "source": "ESPN",
+   "time": "3:57 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50505152/declan-rice-five-year-arsenal-deal"
+  },
+  {
+   "id": "zubimendi-future",
+   "comp": "سوق الانتقالات",
+   "color": "#DB0007",
+   "title": "زوبيميندي ممكن يسيب أرسنال في يناير",
+   "summary": "حسب AS، اللاعب بقى مستعد لأي حاجة بعد ما دخل كل ماتشاته في الدوري احتياطي. أتلتيكو وتشيلسي مهتمين، وأرسنال عايز حوالي 70 مليون يورو.",
+   "source": "ArsenalCore عن AS",
+   "time": "امبارح",
+   "url": "https://arsenalcore.com/arsenal-transfer-news-17-november-2026"
+  },
+  {
+   "id": "man-utd-mckennie",
+   "comp": "سوق الانتقالات",
+   "color": "#DA291C",
+   "title": "يونايتد عينه على ماكيني",
+   "summary": "مانشستر يونايتد عايز يجمع بوكيتينو تاني مع لاعب وسط أمريكا ويستون ماكيني، بعد ما بوكيتينو بقى المدير الفني الجديد.",
+   "source": "ESPN",
+   "time": "4:22 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50499498/transfer-rumors-news-usmnt-pochettino-mckennie-man-united"
+  },
+  {
+   "id": "barca-busy-schedule",
+   "comp": "الدوري الإسباني",
+   "color": "#A50044",
+   "title": "برشلونة قدامه 7 ماتشات في 21 يوم",
+   "summary": "بعد التوقف الدولي برشلونة هيلعب قدام فياريال وأتلتيكو ومانشستر سيتي وغيرهم قبل الكريسماس، والقلق كمان على حالة رافينيا.",
+   "source": "Mundo Deportivo",
+   "time": "12:00 م",
+   "url": "https://sports.yahoo.com/articles/fc-barcelona-news-17-november-100000080.html"
+  },
+  {
+   "id": "poch-pep-usmnt",
+   "comp": "باقي العالم",
+   "color": "#6CABDD",
+   "title": "بوكيتينو ينصح جوارديولا بتدريب أمريكا",
+   "summary": "بوكيتينو قال إنه لو جوارديولا اتعرض عليه تدريب منتخب أمريكا يقبل، ووصفها إنها اللحظة المثالية.",
+   "source": "ESPN",
+   "time": "3:57 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50504817/poch-pep-advice-usmnt-job"
+  }
+ ],
+ "results": [
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "الدنمارك",
+   "away": "النرويج",
+   "hs": 2,
+   "as": 3,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "ويلز",
+   "away": "البرتغال",
+   "hs": 2,
+   "as": 3,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "المجر",
+   "away": "أيرلندا الشمالية",
+   "hs": 1,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "أوكرانيا",
+   "away": "جورجيا",
+   "hs": 1,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "إسرائيل",
+   "away": "النمسا",
+   "hs": 1,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "أيرلندا",
+   "away": "كوسوفو",
+   "hs": 3,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "البوسنة والهرسك",
+   "away": "رومانيا",
+   "hs": 2,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "دوري الأمم الأوروبية",
+   "home": "بولندا",
+   "away": "السويد",
+   "hs": 1,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "ودية دولية",
+   "home": "الأرجنتين",
+   "away": "كوستاريكا",
+   "hs": 7,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "ودية دولية",
+   "home": "البرازيل",
+   "away": "سنغافورة",
+   "hs": 7,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "تصفيات أمم أفريقيا 2027",
+   "home": "مالاوي",
+   "away": "مصر",
+   "hs": 0,
+   "as": 0,
+   "status": "final"
+  }
+ ],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 27
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 21
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 26
+    }
+   ]
+  }
+ ],
+ "updatedLabel": "الأربعاء 9:01 ص"
+}
