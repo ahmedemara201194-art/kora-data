@@ -1,0 +1,189 @@
+{
+ "date": "2026-11-19",
+ "label": "الخميس 19 نوفمبر",
+ "short": "الخميس 19",
+ "pressers": [],
+ "news": [
+  {
+   "id": "pochettino-man-united",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "بوكيتينو بدأ شغله في مانشستر يونايتد",
+   "summary": "بوكيتينو استلم تدريب يونايتد رسمياً مكان كاريك اللي اتقال، وطلب من الجمهور يصبر عليه. أول ماتش ليه قدام ليفربول في أنفيلد يوم الأحد.",
+   "source": "ESPN",
+   "time": "6:03 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league"
+  },
+  {
+   "id": "guler-new-contract",
+   "comp": "الدوري الإسباني",
+   "color": "#FEBE10",
+   "title": "أردا جولر جدد مع ريال مدريد لحد 2032",
+   "summary": "بعد ما سجل فري كيك رائعة لتركيا قدام بلجيكا، جولر مضى عقد جديد مع الريال لحد صيف 2032.",
+   "source": "ESPN",
+   "time": "6:03 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50519617/arda-guler-signs-new-real-madrid-contract"
+  },
+  {
+   "id": "jj-gabriel-legal",
+   "comp": "سوق الانتقالات",
+   "color": "#DA291C",
+   "title": "يونايتد بيهدد بالقضاء بسبب جي جي جابرييل",
+   "summary": "يونايتد ممكن يرفع قضية لو ثبت إن أندية كلمت لاعبه الصغير (16 سنة) بشكل غير قانوني، والولد عنده اتفاق شفهي مع ريال مدريد.",
+   "source": "ESPN",
+   "time": "6:03 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50519120/man-united-jj-gabriel-legal-action-real-madrid"
+  },
+  {
+   "id": "arsenal-rice-contracts",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DB0007",
+   "title": "أرسنال قرب يجدد لرايس ورايا وتيمبر وهينكابي",
+   "summary": "المتصدر قرب يقفل عقود جديدة لأربعة من أساسييه، ورايس هيمضي لحد 2031. وساكا غالباً غايب عن ماتش نيوكاسل.",
+   "source": "LiveScore",
+   "time": "أمس",
+   "url": "https://livescore.com/en/news/football/team/arsenal/daily/wednesday-arsenal-daily-news-20261118"
+  },
+  {
+   "id": "vinicius-form",
+   "comp": "الدوري الإسباني",
+   "color": "#FEBE10",
+   "title": "فينيسيوس رجع لمستواه بعد صيف مقلق",
+   "summary": "بعد صيف كله كلام عن رحيله وبداية موسم بطيئة، فيني بدأ يستعيد فورمته مع الريال والبرازيل وجدد عقده.",
+   "source": "ESPN",
+   "time": "6:43 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer"
+  },
+  {
+   "id": "barca-kounde-balde",
+   "comp": "الدوري الإسباني",
+   "color": "#A50044",
+   "title": "غياب كوندي محيّر وبالدي ممكن يمشي",
+   "summary": "كوندي غاب 6 ماتشات ورا بعض ومتمرنش مع الفريق، ويوفنتوس وباريس عينهم على بالدي في يناير.",
+   "source": "SB Nation",
+   "time": "12:00 م",
+   "url": "https://sports.yahoo.com/articles/fc-barcelona-news-18-november-100000320.html"
+  },
+  {
+   "id": "liverpool-mohya",
+   "comp": "سوق الانتقالات",
+   "color": "#C8102E",
+   "title": "ليفربول وبايرن بيتخانقوا على موهيا",
+   "summary": "الموهبة الصغيرة بتاعة جلادباخ وائل موهيا مطلوب من ليفربول وبايرن، ومعاهم برايتون وليفركوزن ولايبزيج.",
+   "source": "ESPN",
+   "time": "6:43 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya"
+  },
+  {
+   "id": "mata-retires",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "خوان ماتا اعتزل في سن 38",
+   "summary": "بطل كاس العالم واليورو ودوري الأبطال قال وداعاً للكورة، بعد مشوار مع فالنسيا وتشيلسي ويونايتد وآخره في أستراليا.",
+   "source": "ESPN",
+   "time": "6:03 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50519330/juan-mata-retires-spain-world-cup-man-united"
+  },
+  {
+   "id": "pulisic-usmnt-farewell",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "مقصية بوليسيتش ودّعت بوكيتينو من أمريكا",
+   "summary": "أمريكا كسبت هايتي 2-0 (8-0 في المجموع) ووصلت نص نهائي دوري أمم الكونكاكاف قدام المكسيك، في آخر ماتش لبوكيتينو.",
+   "source": "ESPN",
+   "time": "6:03 م",
+   "url": "https://www.espn.com/soccer/report/_/gameId/401929766"
+  },
+  {
+   "id": "nico-paz-argentina-10",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "نيكو باز.. وريث رقم 10 بتاع ميسي",
+   "summary": "لاعب كومو الشاب بقى الاسم الأقرب يلبس رقم ميسي في منتخب الأرجنتين، وده حمل تقيل على لاعب لسه صغير.",
+   "source": "ESPN",
+   "time": "6:03 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50460862/nico-paz-como-argentina-lionel-messi"
+  },
+  {
+   "id": "wc2030-power-rankings",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "إسبانيا لسه الأولى في ترتيب ESPN رغم خسارة إنجلترا",
+   "summary": "خبراء ESPN عملوا أول ترتيب للمنتخبات قبل مونديال 2030، وإسبانيا فضلت في القمة حتى بعد ما إنجلترا كسرت سلسلتها.",
+   "source": "ESPN",
+   "time": "4:02 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50506499/soccer-world-cup-power-rankings-usmnt-spain"
+  }
+ ],
+ "results": [
+  {
+   "comp": "دوري أمم الكونكاكاف · ربع النهائي (إياب)",
+   "home": "أمريكا",
+   "away": "هايتي",
+   "hs": 2,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "دوري أمم الكونكاكاف · ربع النهائي (إياب)",
+   "home": "المكسيك",
+   "away": "جامايكا",
+   "hs": 1,
+   "as": 0,
+   "status": "final"
+  }
+ ],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 27
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 21
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 26
+    }
+   ]
+  }
+ ],
+ "updatedLabel": "الخميس 9:01 ص"
+}
