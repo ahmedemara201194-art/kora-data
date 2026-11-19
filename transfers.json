@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T20:20:00+02:00",
- "updatedLabel": "الأربع 8:20 م",
+ "updated": "2026-11-19T12:20:00+02:00",
+ "updatedLabel": "الخميس 12:20 م",
  "items": [
   {
    "id": "pochettino-new-mun",
@@ -167,32 +167,6 @@
    "updatedLabel": "12 نوفمبر"
   },
   {
-   "id": "raphinha-renewal-bar",
-   "player": "رافينيا",
-   "position": "جناح",
-   "age": 29,
-   "from": "برشلونة",
-   "fromColor": "#A50044",
-   "to": "برشلونة (تجديد)",
-   "toColor": "#004D98",
-   "fee": "",
-   "status": "official",
-   "summary": "برشلونة أعلن رسمياً تجديد عقد رافينيا لحد 30 يونيو 2030. البرازيلي بقى كابتن الفريق وده بيأكد إنه من أعمدة المشروع. النادي ما أعلنش تفاصيل الراتب أو الشرط الجزائي.",
-   "timeline": [
-    {
-     "date": "5 نوفمبر",
-     "text": "البيان الرسمي: رافينيا مضى لحد 2030 وهو كابتن الفريق"
-    }
-   ],
-   "sources": [
-    {
-     "name": "FC Barcelona (البيان الرسمي عبر Yahoo Sports)",
-     "url": "https://sports.yahoo.com/articles/official-raphinha-extends-barcelona-contract-120900530.html"
-    }
-   ],
-   "updatedLabel": "5 نوفمبر"
-  },
-  {
    "id": "guler-renewal-rma",
    "player": "أردا جولر",
    "position": "وسط هجومي",
@@ -283,14 +257,26 @@
    "toColor": "#EF0107",
    "fee": "",
    "status": "advanced",
-   "summary": "رايس وافق شفهياً على عقد جديد مع أرسنال حسب سكاي سبورتس نيوز، بعد ما رومانو كان قال في أكتوبر إن التجديد على وشك يخلص. عقده الحالي لحد 2028 مع سنة اختيارية للنادي. فاضل التوقيع والإعلان الرسمي.",
+   "summary": "أورنستين في The Athletic والجارديان قالوا إن رايس اتفق على عقد جديد لمدة 5 سنين لحد صيف 2031، وهيبقى من أعلى اللاعبين أجراً في أرسنال جنب ساكا. عقده الحالي لحد 2028 مع سنة اختيارية. فاضل التوقيع والإعلان الرسمي، وأرتيتا قال إنها مسألة وقت.",
    "timeline": [
     {
      "date": "16 نوفمبر",
      "text": "سكاي: رايس وافق شفهياً على العقد الجديد"
+    },
+    {
+     "date": "17 نوفمبر",
+     "text": "أورنستين والجارديان: اتفاق على عقد 5 سنين لحد 2031"
     }
    ],
    "sources": [
+    {
+     "name": "The Guardian (عبر Irish Examiner)",
+     "url": "https://www.irishexaminer.com/sport/soccer/arid-41938641.html"
+    },
+    {
+     "name": "David Ornstein / The Athletic (عبر Daily Cannon)",
+     "url": "https://dailycannon.com/2026/11/rice-new-contract-agreed-arsenal/"
+    },
     {
      "name": "Sky Sports",
      "url": "https://www.skysports.com/football/news/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts"
@@ -300,7 +286,41 @@
      "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/arsenal-transfer-news-declan-rice-contract-extension-fabrizio-romano"
     }
    ],
-   "updatedLabel": "17 نوفمبر"
+   "updatedLabel": "19 نوفمبر"
+  },
+  {
+   "id": "timber-renewal-ars",
+   "player": "يوريين تيمبر",
+   "position": "ظهير أيمن",
+   "age": 25,
+   "from": "أرسنال",
+   "fromColor": "#EF0107",
+   "to": "أرسنال (تجديد)",
+   "toColor": "#EF0107",
+   "fee": "",
+   "status": "advanced",
+   "summary": "The Athletic قالت إن تيمبر اتفق على شروط تمديد عقده مع أرسنال وهيمضي على عقد محسّن يخليه في النادي في أحسن سنينه، وسكاي كمان قالت إن التجديد قريب جداً. عقده الحالي لحد 2028، ومدة العقد الجديد وتفاصيله المالية لسه مش معروفة. فاضل الإعلان الرسمي.",
+   "timeline": [
+    {
+     "date": "17 نوفمبر",
+     "text": "تيمبر يلمّح إن التجديد قريب"
+    },
+    {
+     "date": "19 نوفمبر",
+     "text": "The Athletic: تيمبر اتفق على شروط التجديد"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Athletic (عبر Roundtable)",
+     "url": "https://roundtable.io/sports/soccer/premier-league/arsenal/news/jurrien-timber-agrees-new-arsenal-contract---the-athletic"
+    },
+    {
+     "name": "Sky Sports",
+     "url": "https://www.skysports.com/football/news/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts"
+    }
+   ],
+   "updatedLabel": "19 نوفمبر"
   },
   {
    "id": "courtois-renewal-rma",
@@ -352,32 +372,6 @@
     {
      "date": "17 نوفمبر",
      "text": "سكاي: رايا على وشك التجديد"
-    }
-   ],
-   "sources": [
-    {
-     "name": "Sky Sports",
-     "url": "https://www.skysports.com/football/news/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts"
-    }
-   ],
-   "updatedLabel": "17 نوفمبر"
-  },
-  {
-   "id": "timber-renewal-ars",
-   "player": "يوريين تيمبر",
-   "position": "ظهير أيمن",
-   "age": 25,
-   "from": "أرسنال",
-   "fromColor": "#EF0107",
-   "to": "أرسنال (تجديد)",
-   "toColor": "#EF0107",
-   "fee": "",
-   "status": "talks",
-   "summary": "تيمبر كمان قريب من تجديد عقده اللي بيخلص 2028. اللاعب نفسه قال إن الأخبار \"ماشية في الطريق الصح\" وإنه حاسس إنه في بيته. وأرسنال كمان واثق إن هينكابي هيجدد.",
-   "timeline": [
-    {
-     "date": "17 نوفمبر",
-     "text": "تيمبر يلمّح إن التجديد قريب"
     }
    ],
    "sources": [
