@@ -1,0 +1,172 @@
+{
+ "date": "2026-11-20",
+ "label": "الجمعة 20 نوفمبر",
+ "short": "الجمعة 20",
+ "pressers": [],
+ "news": [
+  {
+   "id": "pochettino-drone-training",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "أول تمرين لبوكيتينو مع يونايتد اتصور بدرون",
+   "summary": "فيديو لأول حصة تدريبية لبوكيتينو كمدرب لمانشستر يونايتد اتصور بطيارة درون واتنشر على يوتيوب، قبل أول ماتش ليه قدام ليفربول يوم الأحد.",
+   "source": "ESPN",
+   "time": "1:33 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50533559/mauricio-pochettino-man-united-training-drone-filmed-online"
+  },
+  {
+   "id": "araujo-liverpool-permanent",
+   "comp": "سوق الانتقالات",
+   "color": "#A50044",
+   "title": "ديكو: نرحب ببيع أراوخو لليفربول نهائي",
+   "summary": "المدير الرياضي لبرشلونة قال إن النادي هيرحب لو ليفربول قرر يشتري رونالد أراوخو المعار عنده بشكل نهائي، في صفقة حوالي 60 مليون دولار.",
+   "source": "ESPN",
+   "time": "1:33 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50530266/barcelona-deco-ronald-araujo-liverpool-transfer"
+  },
+  {
+   "id": "haaland-city-leader",
+   "comp": "الدوري الإنجليزي",
+   "color": "#6CABDD",
+   "title": "هالاند: دور القائد في سيتي جه بشكل طبيعي",
+   "summary": "هالاند بقى من قادة مانشستر سيتي، وبيقول إن تحمّل المسؤولية أكتر حاجة طبيعية بالنسباله، بس عايز يعملها بطريقته الخاصة.",
+   "source": "ESPN",
+   "time": "1:33 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50533036/erling-haaland-man-city-leader"
+  },
+  {
+   "id": "epl-season-predictions",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DB0007",
+   "title": "توقعات ESPN لترتيب البريميرليج في آخر الموسم",
+   "summary": "بعد 10 جولات وأرسنال في الصدارة، ESPN توقعت المركز اللي هيخلص فيه كل فريق من الـ20 في موسم 2026-27.",
+   "source": "ESPN",
+   "time": "9:01 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea"
+  },
+  {
+   "id": "city-fallen-giants",
+   "comp": "الدوري الإنجليزي",
+   "color": "#6CABDD",
+   "title": "الأندية الكبيرة اللي هبطت كعقوبة.. وسيتي؟",
+   "summary": "تقرير عن أندية أوروبية كبيرة اتعاقبت بالهبوط بعد فضايح وإزاي رجعت هي وجمهورها، وإيه اللي ممكن يستنى مانشستر سيتي.",
+   "source": "ESPN",
+   "time": "1:17 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50512572/fallen-giants-scandal-relegation-manchester-city"
+  },
+  {
+   "id": "forbs-transfer-talk",
+   "comp": "سوق الانتقالات",
+   "color": "#DA291C",
+   "title": "أندية إنجليزية عينها على كارلوس فوربس",
+   "summary": "أندية في البريميرليج بتراقب الجناح البرتغالي كارلوس فوربس، ويونايتد كمان بيدور يدعم دفاعه مع بداية عهد بوكيتينو.",
+   "source": "ESPN",
+   "time": "11:12 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50529152/transfer-rumors-news-cristiano-ronaldo-premier-league-carlos-forbs"
+  },
+  {
+   "id": "arsenal-women-lyon-loss",
+   "comp": "أوروبا",
+   "color": "#DB0007",
+   "title": "سيدات أرسنال وقعوا قدام ليون في الأبطال",
+   "summary": "أرسنال حامل لقب دوري أبطال أوروبا للسيدات خسر 2-0 قدام ليون، والهزيمة كشفت نفس المشاكل في موسم مخيب لحد دلوقتي.",
+   "source": "ESPN",
+   "time": "1:16 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50534727/arsenal-lyonnes-champions-league-defeat"
+  },
+  {
+   "id": "chelsea-women-uwcl",
+   "comp": "أوروبا",
+   "color": "#034694",
+   "title": "دفاع سيدات تشيلسي قوي بس الهجوم قلق",
+   "summary": "تشيلسي جاب 4 أهداف بس في 5 ماتشات في دوري أبطال السيدات، ومع كده لسه في موقف كويس في المجموعة.",
+   "source": "ESPN",
+   "time": "1:16 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50524335/chelsea-psg-uwcl-scoring-issues"
+  },
+  {
+   "id": "messi-mls-salaries",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "ميسي لسه الأعلى أجراً في الدوري الأمريكي",
+   "summary": "قائمة رواتب الدوري الأمريكي الجديدة: ميسي فوق الكل، وعدد اللاعيبة اللي بياخدوا 10 مليون دولار أو أكتر بقى 5.",
+   "source": "ESPN",
+   "time": "1:33 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50526796/messi-leads-mls-salaries-rise-sullivan-614k"
+  },
+  {
+   "id": "infantino-fifa-election",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "إنفانتينو بيطالب باللعب النظيف في انتخابات فيفا",
+   "summary": "رئيس فيفا طالب المرشحين قدامه في انتخابات الرئاسة الجاية إنهم يلتزموا بـ\"اللعب النظيف\" في الحملة.",
+   "source": "ESPN",
+   "time": "1:33 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima"
+  },
+  {
+   "id": "arena-us-soccer-coach",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "أرينا ينتقد الاتحاد الأمريكي في اختيار بديل بوكيتينو",
+   "summary": "بروس أرينا المدرب السابق لأمريكا قال إن الاتحاد مش عارف هيجيب مين مكان بوكيتينو اللي مشي ليونايتد.",
+   "source": "ESPN",
+   "time": "1:33 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50525211/us-coach-arena-federation-clue-next-coach"
+  }
+ ],
+ "results": [],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 27
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 21
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 26
+    }
+   ]
+  }
+ ],
+ "updatedLabel": "الجمعة 9:10 ص"
+}
