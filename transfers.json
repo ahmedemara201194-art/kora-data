@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:20:00+02:00",
- "updatedLabel": "السبت 12:20 م",
+ "updated": "2026-11-21T20:20:00+02:00",
+ "updatedLabel": "السبت 8:20 م",
  "items": [
   {
    "id": "pochettino-new-mun",
@@ -503,6 +503,58 @@
     }
    ],
    "updatedLabel": "11 نوفمبر"
+  },
+  {
+   "id": "bassey-new-mun",
+   "player": "كالفين باسي",
+   "position": "مدافع",
+   "age": 26,
+   "from": "فولهام",
+   "fromColor": "#000000",
+   "to": "مانشستر يونايتد",
+   "toColor": "#DA291C",
+   "fee": "",
+   "status": "rumour",
+   "summary": "مات لو في التلجراف بيقول إن مانشستر يونايتد بيناقش اختياراته لشهر يناير، وباسي اسمه موجود بقوة في القايمة. يونايتد أولويته قلب دفاع ومهاجم. مفيش عرض رسمي ولا رقم معروف لحد دلوقتي.",
+   "timeline": [
+    {
+     "date": "19 نوفمبر",
+     "text": "التلجراف: باسي من أبرز أسماء يونايتد ليناير"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Telegraph (عبر Bleacher Report)",
+     "url": "https://bleacherreport.com/articles/25535165-bs-meter-latest-transfer-rumors-november-2026"
+    }
+   ],
+   "updatedLabel": "21 نوفمبر"
+  },
+  {
+   "id": "vuskovic-new-liv",
+   "player": "لوكا فوشكوفيتش",
+   "position": "مدافع",
+   "age": 19,
+   "from": "برايتون",
+   "fromColor": "#0057B8",
+   "to": "ليفربول",
+   "toColor": "#C8102E",
+   "fee": "",
+   "status": "rumour",
+   "summary": "فلوريان بليتنبرج من سكاي ألمانيا بيقول إن المدافع الشاب في قايمة ليفربول لصفقة صيفية. برايتون شايف إن قيمته أكتر من 100 مليون دولار حسب التقرير. لسه كلام اهتمام من غير مفاوضات.",
+   "timeline": [
+    {
+     "date": "19 نوفمبر",
+     "text": "سكاي ألمانيا: فوشكوفيتش في قايمة ليفربول للصيف"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sky Germany (عبر Bleacher Report)",
+     "url": "https://bleacherreport.com/articles/25535165-bs-meter-latest-transfer-rumors-november-2026"
+    }
+   ],
+   "updatedLabel": "21 نوفمبر"
   },
   {
    "id": "alexander-arnold-exit-rma",
