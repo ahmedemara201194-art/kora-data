@@ -1,0 +1,252 @@
+{
+ "date": "2026-11-21",
+ "label": "السبت 21 نوفمبر",
+ "short": "السبت 21",
+ "pressers": [],
+ "news": [
+  {
+   "id": "kane-ankle-injury",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "هاري كين برا الملاعب لشهور",
+   "summary": "نجم بايرن ميونخ والفايز بالكورة الدهبية اتقطعله رباط في الكاحل الشمال في تعادل بايرن مع كولن، ومتوقع يغيب كذا شهر.",
+   "source": "ESPN",
+   "time": "12:53 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50543079/harry-kane-injury-bayern-munich"
+  },
+  {
+   "id": "brady-chelsea-stake",
+   "comp": "الدوري الإنجليزي",
+   "color": "#034694",
+   "title": "توم برادي اشترى حصة في تشيلسي",
+   "summary": "حسب مصادر ESPN، أسطورة الكورة الأمريكية وصاحب 7 ألقاب سوبر بول استثمر في تشيلسي بعد ما خرج من برمنجهام.",
+   "source": "ESPN",
+   "time": "12:50 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources"
+  },
+  {
+   "id": "liverpool-anfield-form-united",
+   "comp": "الدوري الإنجليزي",
+   "color": "#C8102E",
+   "title": "ليفربول تعبان في أنفيلد قبل قمة يونايتد",
+   "summary": "ليفربول مستواه ضعيف على أرضه الموسم ده، وبيستقبل مانشستر يونايتد بكرة الأحد في أول ماتش لبوكيتينو مع الشياطين الحمر.",
+   "source": "ESPN",
+   "time": "8:34 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league"
+  },
+  {
+   "id": "pochettino-usmnt-pressure",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "بوكيتينو: ضغط أمريكا خلاني مدرب أحسن",
+   "summary": "مدرب يونايتد الجديد قال إن تجربة تدريب منتخب أمريكا في كاس العالم جهزته لضغط أولد ترافورد.",
+   "source": "ESPN",
+   "time": "12:50 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50542344/mauricio-pochettino-usa-man-united-coach"
+  },
+  {
+   "id": "arsenal-nico-williams-rumor",
+   "comp": "سوق الانتقالات",
+   "color": "#DB0007",
+   "title": "شائعة: أرسنال عايز نيكو ويليامز",
+   "summary": "حسب جولة شائعات ESPN، أرسنال بيفكر في جناح إسبانيا بطل العالم، وريال مدريد عينه على نيكو باز لاعب كومو.",
+   "source": "ESPN",
+   "time": "5:25 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain"
+  },
+  {
+   "id": "vinicius-back-on-track",
+   "comp": "الدوري الإسباني",
+   "color": "#FEBE10",
+   "title": "فينيسيوس رجع لطريقه مع الريال",
+   "summary": "بعد صيف مليان كلام عن رحيله وبداية بطيئة، فينيسيوس بدأ يرجع لمستواه مع ريال مدريد والبرازيل، والريال محتاجه قدام سيلتا الليلة.",
+   "source": "ESPN",
+   "time": "10:42 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50505359/vinicius-junior-real-madrid-brazil-transfer"
+  },
+  {
+   "id": "nations-league-quarterfinals",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "قرعة ربع نهائي دوري الأمم",
+   "summary": "إنجلترا هتقابل النرويج بتاعة هالاند، وإسبانيا بطلة العالم هتواجه فرنسا في ربع نهائي دوري الأمم الأوروبية.",
+   "source": "ESPN",
+   "time": "12:50 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50539055/england-norway-spain-france-nations-league"
+  },
+  {
+   "id": "ronaldo-penalty-miss-al-nassr",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "رونالدو ضيّع ضربة جزا والنصر خسر",
+   "summary": "كريستيانو قرّب من هدفه رقم 1000 بس ضيّع بلنتي في الشوط الأول، والنصر خسر 3-1 قدام الأهلي.",
+   "source": "ESPN",
+   "time": "12:50 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50543354/cristiano-ronaldo-goal-1000-al-nassr-penalty-miss"
+  },
+  {
+   "id": "estevao-chelsea-minutes",
+   "comp": "الدوري الإنجليزي",
+   "color": "#034694",
+   "title": "إستيفاو.. موهبة البرازيل محتاجة دقايق",
+   "summary": "تحليل عن إستيفاو اللي بيعتبروه أهم موهبة شابة في البرازيل، بس مش واخد فرصته كفاية في تشيلسي.",
+   "source": "ESPN",
+   "time": "5:47 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea"
+  },
+  {
+   "id": "mls-playoffs-messi",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "ميسي وإنتر ميامي.. بلاي أوف الدوري الأمريكي يبدأ",
+   "summary": "الدور الأول من بلاي أوف MLS بنظام أفضل من 3 ماتشات بيبدأ النهارده، ومحللين ESPN اتوقعوا مين هيعدي.",
+   "source": "ESPN",
+   "time": "9:07 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50520734/mls-playoff-round-1-predictions-lionel-messi"
+  }
+ ],
+ "results": [
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "مانشستر سيتي",
+   "away": "فولهام",
+   "status": "scheduled",
+   "time": "2:30 م"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "تشيلسي",
+   "away": "ليدز",
+   "status": "scheduled",
+   "time": "5:00 م"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "توتنهام",
+   "away": "إيبسويتش",
+   "status": "scheduled",
+   "time": "5:00 م"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "أستون فيلا",
+   "away": "سندرلاند",
+   "status": "scheduled",
+   "time": "5:00 م"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "كوفنتري",
+   "away": "كريستال بالاس",
+   "status": "scheduled",
+   "time": "5:00 م"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "بورنموث",
+   "away": "نوتنجهام فورست",
+   "status": "scheduled",
+   "time": "5:00 م"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "نيوكاسل",
+   "away": "أرسنال",
+   "status": "scheduled",
+   "time": "7:30 م"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "ألافيس",
+   "away": "ديبورتيفو لاكورونيا",
+   "status": "scheduled",
+   "time": "3:00 م"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "رايو فاليكانو",
+   "away": "فالنسيا",
+   "status": "scheduled",
+   "time": "5:15 م"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "إشبيلية",
+   "away": "ريال بيتيس",
+   "status": "scheduled",
+   "time": "7:30 م"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "ريال مدريد",
+   "away": "سيلتا فيجو",
+   "status": "scheduled",
+   "time": "10:00 م"
+  }
+ ],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 27
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 21
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 30
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 26
+    }
+   ]
+  }
+ ],
+ "headline_match": {
+  "label": "قمة الليلة · الدوري الإنجليزي",
+  "time": "7:30 م",
+  "home": "نيوكاسل",
+  "homeCode": "NEW",
+  "homeColor": "#241F20",
+  "homeNote": "صاحب الأرض",
+  "away": "أرسنال",
+  "awayCode": "ARS",
+  "awayColor": "#DB0007",
+  "awayNote": "المتصدر · 27 نقطة"
+ },
+ "updatedLabel": "السبت 8:59 ص"
+}
