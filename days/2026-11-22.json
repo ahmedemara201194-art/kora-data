@@ -1,0 +1,305 @@
+{
+ "date": "2026-11-22",
+ "label": "الأحد 22 نوفمبر",
+ "short": "الأحد 22",
+ "pressers": [],
+ "news": [
+  {
+   "id": "real-madrid-celta-espi",
+   "comp": "الدوري الإسباني",
+   "color": "#FEBE10",
+   "title": "إسبي أنقذ الريال قدام سيلتا",
+   "summary": "سيلتا سجل بدري بدوران، وبيلينجهام عادل في الدقيقة 66، وكارلوس إسبي البديل جاب هدف الفوز 2-1 في الدقيقة 85. مبابي ضيّع ضربة جزا فوق العارضة.",
+   "source": "TNT Sports",
+   "time": "12:05 ص",
+   "url": "https://www.tntsports.co.uk/football/la-liga/2026-2027/real-madrid-rc-celta_mtc21891580/live-commentary.shtml"
+  },
+  {
+   "id": "madrid-level-barca-top",
+   "comp": "الدوري الإسباني",
+   "color": "#FEBE10",
+   "title": "الريال لحق برشلونة على القمة",
+   "summary": "بالفوز ده الريال بقى عنده 33 نقطة زي برشلونة بالظبط، بس لعب ماتش زيادة، وبرشلونة يقدر يرجع للصدارة لوحده لو كسب فياريال النهارده.",
+   "source": "VAVEL",
+   "time": "12:10 ص",
+   "url": "https://www.vavel.com/en-us/soccer/2026/11/21/1280093-real-madrid-vs-celta-live-latest-score-goals-and-laliga-updates.html"
+  },
+  {
+   "id": "arsenal-newcastle-draw",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DB0007",
+   "title": "أرسنال وقع في نقطتين في نيوكاسل",
+   "summary": "إيزي قدّم أرسنال، ونيوكاسل قلبها بهدفين لبارنز وتياو بعد الاستراحة، ومادويكي أنقذ نقطة متأخر 2-2. أرسنال لسه متصدر بفارق 6 نقط.",
+   "source": "AFP",
+   "time": "4:56 ص",
+   "url": "https://www.thedailystar.net/sports/football/news/arsenal-pained-dropping-points-newcastle-says-arteta-4330086"
+  },
+  {
+   "id": "raya-shoulder-injury",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DB0007",
+   "title": "قلق في أرسنال على رايا",
+   "summary": "الحارس ديفيد رايا خرج مصاب في الكتف بعد هدف نيوكاسل التاني، وأرتيتا قال إنه هيعمل أشعة رنين النهارده.",
+   "source": "AFP",
+   "time": "4:56 ص",
+   "url": "https://www.thedailystar.net/sports/football/news/arsenal-pained-dropping-points-newcastle-says-arteta-4330086"
+  },
+  {
+   "id": "leeds-thrash-chelsea",
+   "comp": "الدوري الإنجليزي",
+   "color": "#034694",
+   "title": "ليدز كسح تشيلسي 4-1 في ستامفورد بريدج",
+   "summary": "إيمجا قدّم تشيلسي، وبعدين أوكافور جاب هدفين وكالفرت لوين من ضربة جزا وآرونسون في الآخر. أول فوز لليدز على تشيلسي في الدوري من بداية القرن، وكايسيدو خرج مصاب.",
+   "source": "ESPN",
+   "time": "6:55 م",
+   "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879236"
+  },
+  {
+   "id": "seville-derby-draw",
+   "comp": "الدوري الإسباني",
+   "color": "#4A5670",
+   "title": "ديربي إشبيلية خلص 1-1 في آخر لحظة",
+   "summary": "أنتوني جاب أول أهدافه في الموسم لبيتيس في بداية الشوط التاني، وكيكي سالاس عادل لإشبيلية بتسديدة بعيدة في آخر ثواني الماتش.",
+   "source": "Flashscore",
+   "time": "9:25 م",
+   "url": "https://www.flashscore.com/news/soccer-laliga-sevilla-betis-report-november-21-2026/tSN7Us7D/"
+  },
+  {
+   "id": "city-fulham-draw",
+   "comp": "الدوري الإنجليزي",
+   "color": "#6CABDD",
+   "title": "سيتي اتعادل مع فولهام في الاتحاد",
+   "summary": "مانشستر سيتي اكتفى بتعادل 1-1 مع فولهام، وبقى بعيد عن أرسنال المتصدر بـ6 نقط.",
+   "source": "Sports Mole",
+   "time": "4:25 م",
+   "url": "https://www.sportsmole.co.uk/football/premier-league/results.html"
+  },
+  {
+   "id": "pochettino-anfield-debut",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "بوكيتينو يبدأ مع يونايتد في أنفيلد",
+   "summary": "أول ماتش لبوكيتينو مع يونايتد النهارده قدام ليفربول بتاع إيراولا. يونايتد كسب ماتش واحد بس في أول 10 جولات، وليفربول عنده غيابات كتير.",
+   "source": "Goal",
+   "time": "8:00 م",
+   "url": "https://www.goal.com/en/news/liverpool-manchester-united-premier-league-preview/blt733378437beb8d4f"
+  },
+  {
+   "id": "barca-villarreal-today",
+   "comp": "الدوري الإسباني",
+   "color": "#A50044",
+   "title": "برشلونة قدام فياريال عشان الصدارة",
+   "summary": "برشلونة بيستضيف فياريال النهارده الساعة 3 العصر، والفوز يرجّعه للقمة لوحده بفارق 3 نقط عن الريال.",
+   "source": "ESPN",
+   "time": "8:30 ص",
+   "url": "https://www.espn.com/soccer/schedule/_/league/esp.1"
+  },
+  {
+   "id": "atletico-getafe-tonight",
+   "comp": "الدوري الإسباني",
+   "color": "#C8102E",
+   "title": "أتلتيكو في ضيافة خيتافي بالليل",
+   "summary": "أتلتيكو مدريد التالت بـ28 نقطة بيلعب على ملعب خيتافي الساعة 10 بالليل، وعايز يقرّب من الريال وبرشلونة.",
+   "source": "ESPN",
+   "time": "8:30 ص",
+   "url": "https://www.espn.com/soccer/schedule/_/league/esp.1"
+  }
+ ],
+ "results": [
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "نيوكاسل",
+   "away": "أرسنال",
+   "hs": 2,
+   "as": 2,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "مانشستر سيتي",
+   "away": "فولهام",
+   "hs": 1,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "تشيلسي",
+   "away": "ليدز",
+   "hs": 1,
+   "as": 4,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "توتنهام",
+   "away": "إيبسويتش",
+   "hs": 2,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "أستون فيلا",
+   "away": "سندرلاند",
+   "hs": 0,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "كوفنتري",
+   "away": "كريستال بالاس",
+   "hs": 3,
+   "as": 2,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "بورنموث",
+   "away": "نوتنجهام فورست",
+   "hs": 2,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "ريال مدريد",
+   "away": "سيلتا فيجو",
+   "hs": 2,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "إشبيلية",
+   "away": "ريال بيتيس",
+   "hs": 1,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "رايو فاليكانو",
+   "away": "فالنسيا",
+   "hs": 0,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "ألافيس",
+   "away": "ديبورتيفو لاكورونيا",
+   "hs": 3,
+   "as": 1,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "هال سيتي",
+   "away": "برايتون",
+   "status": "scheduled",
+   "time": "4:00 م"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "ليفربول",
+   "away": "مانشستر يونايتد",
+   "status": "scheduled",
+   "time": "6:30 م"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "برشلونة",
+   "away": "فياريال",
+   "status": "scheduled",
+   "time": "3:00 م"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "راسينج سانتاندير",
+   "away": "ريال سوسيداد",
+   "status": "scheduled",
+   "time": "5:15 م"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "أوساسونا",
+   "away": "مالاجا",
+   "status": "scheduled",
+   "time": "7:30 م"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "خيتافي",
+   "away": "أتلتيكو مدريد",
+   "status": "scheduled",
+   "time": "10:00 م"
+  }
+ ],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 28
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 22
+    },
+    {
+     "pos": 4,
+     "team": "بورنموث",
+     "pts": 18
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "ريال مدريد",
+     "pts": 33
+    },
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 33
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 28
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 27
+    }
+   ]
+  }
+ ],
+ "headline_match": {
+  "label": "قمة الليلة · الدوري الإنجليزي",
+  "time": "6:30 م",
+  "home": "ليفربول",
+  "homeCode": "LIV",
+  "homeColor": "#C8102E",
+  "homeNote": "الخامس · 18 نقطة",
+  "away": "مانشستر يونايتد",
+  "awayCode": "MUN",
+  "awayColor": "#DA291C",
+  "awayNote": "8 نقط · أول ماتش لبوكيتينو"
+ },
+ "updatedLabel": "الأحد 9:02 ص"
+}
