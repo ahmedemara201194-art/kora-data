@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T20:15:00+02:00",
- "updatedLabel": "الحد 8:15 م",
+ "updated": "2026-11-23T12:15:00+02:00",
+ "updatedLabel": "الاتنين 12:15 م",
  "items": [
   {
    "id": "pochettino-new-mun",
@@ -855,20 +855,28 @@
    "toColor": "#A50044",
    "fee": "",
    "status": "rumour",
-   "summary": "صحيفة Sport بتقول إن برشلونة حاطط بورو في دماغه للصيف الجاي، وممكن يدفع لحد 50 مليون يورو، في حين إن توتنهام مقيّمه بحوالي 70 مليون. اللاعب لو ساب توتنهام عايز يروح برشلونة بالذات، وريال مدريد كمان متابعه. لسه مفيش مفاوضات رسمية.",
+   "summary": "صحيفة Sport قالت إن برشلونة حاطط بورو في دماغه للصيف وممكن يدفع لحد 50 مليون يورو، وتوتنهام مقيّمه بحوالي 70 مليون. بس فابريزيو رومانو نفى تماماً وقال إن مفيش أي حاجة شغالة مع برشلونة، وإن بورو مش هيمشي في يناير وكان مجدد عقده من كام شهر. يعني الخبر ضعيف جداً لحد دلوقتي.",
    "timeline": [
     {
      "date": "15 نوفمبر",
      "text": "Sport: برشلونة بيفكر في بورو للصيف، وفجوة في التقييم مع توتنهام"
+    },
+    {
+     "date": "17 نوفمبر",
+     "text": "رومانو: مفيش أي حاجة مع برشلونة والكلام ده مش صحيح"
     }
    ],
    "sources": [
     {
      "name": "ESPN Transfer Talk",
      "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear"
+    },
+    {
+     "name": "Fabrizio Romano (عبر FootballTransfers)",
+     "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-lewis-hall-man-utd-declan-rice-arsenal-jj-gabriel-real-madrid"
     }
    ],
-   "updatedLabel": "15 نوفمبر"
+   "updatedLabel": "23 نوفمبر"
   },
   {
    "id": "araujo-new-liv",
@@ -881,20 +889,28 @@
    "toColor": "#C8102E",
    "fee": "",
    "status": "rumour",
-   "summary": "أراوخو بيلعب في ليفربول على سبيل الإعارة من برشلونة، وماركا بتقول إن ليفربول عنده خيار يشتريه نهائي بحوالي 55 مليون يورو. القرار لسه ماتاخدش، والموضوع مرتبط بمستواه مع الفريق الموسم ده.",
+   "summary": "أراوخو بيلعب في ليفربول إعارة من برشلونة، وفيه خيار شراء نهائي بحوالي 55 مليون يورو. رومانو بيقول إن ليفربول مش هياخد أي قرار لا في نوفمبر ولا ديسمبر وغالباً ولا يناير، والكلام عن صفقة قريبة مجرد تكهنات. القرار هيتحدد في 2027 وبالتفاوض مع برشلونة.",
    "timeline": [
     {
      "date": "15 نوفمبر",
      "text": "ماركا: ليفربول عنده خيار شراء أراوخو نهائياً بـ55 مليون يورو"
+    },
+    {
+     "date": "15 نوفمبر",
+     "text": "رومانو: ليفربول مش هيقرر دلوقتي، والقرار في 2027"
     }
    ],
    "sources": [
     {
      "name": "ESPN Transfer Talk",
      "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear"
+    },
+    {
+     "name": "Fabrizio Romano (عبر FootballTransfers)",
+     "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/11/fabrizio-romano-transfer-news-malo-gusto-chelsea-man-utd-ronald-araujo-liverpool-kevin-de-bruyne-napoli"
     }
    ],
-   "updatedLabel": "15 نوفمبر"
+   "updatedLabel": "23 نوفمبر"
   },
   {
    "id": "collins-new-liv",
