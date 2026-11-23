@@ -1,0 +1,247 @@
+{
+ "date": "2026-11-23",
+ "label": "الاتنين 23 نوفمبر",
+ "short": "الاتنين 23",
+ "pressers": [],
+ "news": [
+  {
+   "id": "liverpool-thrash-united",
+   "comp": "الدوري الإنجليزي",
+   "color": "#C8102E",
+   "title": "ليفربول كسح يونايتد 4-0 في أنفيلد",
+   "summary": "يورو اتطرد في الدقيقة 8، وسوبوسلاي وفيرتز سجلوا بدري، وبعدهم نجوموها وفيكتور مونيوز. يونايتد في المركز 19 بـ 8 نقط بس.",
+   "source": "ESPN",
+   "time": "1:31 ص",
+   "url": "https://www.espn.com/soccer/report/_/gameId/401878755"
+  },
+  {
+   "id": "pochettino-debut-circumstances",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DA291C",
+   "title": "بوكيتينو: الطرد غيّر كل حاجة",
+   "summary": "في أول ماتش ليه مع يونايتد، شال مسؤولية الأربعة بس اعترض على طرد يورو وقال إنهم كانوا يستاهلوا ضربة جزا على مبومو. وقال إن لسه فيه ماتشات كتير.",
+   "source": "ESPN",
+   "time": "1:31 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50563730/pochettino-painful-man-united-loss-liverpool"
+  },
+  {
+   "id": "barca-beat-villarreal-top",
+   "comp": "الدوري الإسباني",
+   "color": "#A50044",
+   "title": "برشلونة فاز 3-2 على فياريال ورجع للصدارة",
+   "summary": "برشلونة بقى لوحده على القمة بـ 36 نقطة، بفارق 3 عن ريال مدريد بعد الجولة 13.",
+   "source": "FC Barcelona",
+   "time": "5:00 م",
+   "url": "https://www.fcbarcelona.com/en/"
+  },
+  {
+   "id": "atletico-win-getafe",
+   "comp": "الدوري الإسباني",
+   "color": "#C8102E",
+   "title": "أتلتيكو كسب خيتافي 3-0 برا أرضه",
+   "summary": "فوز مريح لأتلتيكو قفل بيه الجولة، ووصل لـ 31 نقطة في المركز التالت ورا الريال بنقطتين.",
+   "source": "La Grada",
+   "time": "11:55 م",
+   "url": "https://www.espn.com/soccer/standings/_/league/esp.1"
+  },
+  {
+   "id": "arsenal-newcastle-wakeup",
+   "comp": "الدوري الإنجليزي",
+   "color": "#DB0007",
+   "title": "تعادل نيوكاسل جرس إنذار لأرسنال",
+   "summary": "أرسنال كان متقدم بهدف إيزي وكان ممكن يبعد بـ 8 نقط، بس نيوكاسل قلبها 2-1 قبل ما مادويكي يعادل. ورايا خرج مصاب قبل النهاية بـ 20 دقيقة.",
+   "source": "ESPN",
+   "time": "12:20 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50553100/arsenal-collapse-newcastle-premier-league"
+  },
+  {
+   "id": "city-crossroads-fulham",
+   "comp": "الدوري الإنجليزي",
+   "color": "#6CABDD",
+   "title": "سيتي في مفترق طرق بعد تعادل فولهام",
+   "summary": "سيتي كان كسب فولهام 20 مرة ورا بعض قبل تعادل السبت 1-1. وآخر 5 ماتشات فيهم 3 هزايم وتعادل.",
+   "source": "ESPN",
+   "time": "12:20 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50550244/man-city-fulham-premier-league-erling-haaland-maresca"
+  },
+  {
+   "id": "robinson-united-rumor",
+   "comp": "سوق الانتقالات",
+   "color": "#DA291C",
+   "title": "شائعة: يونايتد عينه على أنتوني روبنسون",
+   "summary": "حسب تقارير جمعتها ESPN، مانشستر يونايتد مهتم بظهير فولهام والمنتخب الأمريكي. لسه مفيش أي حاجة رسمية.",
+   "source": "ESPN",
+   "time": "2:37 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50560783/transfer-rumors-news-antonee-robinson-usmnt-man-united"
+  },
+  {
+   "id": "messi-throw-columbus",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "جدل حوالين ميسي بعد خسارة إنتر ميامي 3-0",
+   "summary": "في بلاي أوف الدوري الأمريكي، ميسي رمى الكورة في وش تابيا وخد إنذار. مدرب كولومبوس شايف إنه كان يستاهل طرد، وميامي لازم يكسب الجمعة.",
+   "source": "ESPN",
+   "time": "1:31 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50558763/lionel-messi-throw-red-card-inter-miami-columbus-crew"
+  },
+  {
+   "id": "milan-rout-frosinone",
+   "comp": "أوروبا",
+   "color": "#4A5670",
+   "title": "ميلان اكتسح فروزينوني 5-1 ودخل المربع",
+   "summary": "أكبر فوز لميلان الموسم ده تحت قيادة أموريم، وبوليسيتش ختمها بهدف فردي جميل.",
+   "source": "ESPN",
+   "time": "1:31 ص",
+   "url": "https://www.espn.com/soccer/report/_/gameId/401874989"
+  },
+  {
+   "id": "boca-sudamericana",
+   "comp": "باقي العالم",
+   "color": "#4A5670",
+   "title": "بوكا جونيورز بطل كوبا سودأمريكانا",
+   "summary": "بوكا كسر صيام قرب من 20 سنة عن البطولات القارية، بس فيه قلق من رحيل نجومه الصغيرين.",
+   "source": "ESPN",
+   "time": "6:10 م",
+   "url": "https://www.espn.com/soccer/story/_/id/50562471/boca-juniors-copa-sudamericana-atletico-mineiro-jagger"
+  },
+  {
+   "id": "pepe-eclipse-denial",
+   "comp": "الدوري الإسباني",
+   "color": "#4A5670",
+   "title": "فياريال ينفي حكاية عين بيبي والكسوف",
+   "summary": "النادي نفى إن العملية اللي عملها نيكولا بيبي في عينه سببها إنه بص على كسوف الشمس.",
+   "source": "ESPN",
+   "time": "1:31 ص",
+   "url": "https://www.espn.com/soccer/story/_/id/50564664/nicolas-pepe-eclipse-villarreal"
+  }
+ ],
+ "results": [
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "هال سيتي",
+   "away": "برايتون",
+   "hs": 2,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "ليفربول",
+   "away": "مانشستر يونايتد",
+   "hs": 4,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "برشلونة",
+   "away": "فياريال",
+   "hs": 3,
+   "as": 2,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "راسينج سانتاندير",
+   "away": "ريال سوسيداد",
+   "hs": 3,
+   "as": 2,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "أوساسونا",
+   "away": "مالاجا",
+   "hs": 1,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "خيتافي",
+   "away": "أتلتيكو مدريد",
+   "hs": 0,
+   "as": 3,
+   "status": "final"
+  },
+  {
+   "comp": "الدوري الإنجليزي · الجولة 11",
+   "home": "برينتفورد",
+   "away": "إيفرتون",
+   "status": "scheduled",
+   "time": "10:00 م"
+  },
+  {
+   "comp": "الدوري الإسباني · الجولة 13",
+   "home": "ليفانتي",
+   "away": "إلتشي",
+   "status": "scheduled",
+   "time": "10:00 م"
+  }
+ ],
+ "standings": [
+  {
+   "comp": "قمة الدوري الإنجليزي",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "أرسنال",
+     "pts": 28
+    },
+    {
+     "pos": 2,
+     "team": "برايتون",
+     "pts": 22
+    },
+    {
+     "pos": 3,
+     "team": "مانشستر سيتي",
+     "pts": 22
+    },
+    {
+     "pos": 4,
+     "team": "ليفربول",
+     "pts": 21
+    }
+   ]
+  },
+  {
+   "comp": "قمة الدوري الإسباني",
+   "rows": [
+    {
+     "pos": 1,
+     "team": "برشلونة",
+     "pts": 36
+    },
+    {
+     "pos": 2,
+     "team": "ريال مدريد",
+     "pts": 33
+    },
+    {
+     "pos": 3,
+     "team": "أتلتيكو مدريد",
+     "pts": 31
+    },
+    {
+     "pos": 4,
+     "team": "ريال بيتيس",
+     "pts": 27
+    }
+   ]
+  }
+ ],
+ "headline_match": {
+  "label": "ماتش الليلة · الدوري الإنجليزي",
+  "time": "10:00 م",
+  "home": "برينتفورد",
+  "homeCode": "BRE",
+  "homeColor": "#E30613",
+  "homeNote": "العاشر · 14 نقطة",
+  "away": "إيفرتون",
+  "awayCode": "EVE",
+  "awayColor": "#003399",
+  "awayNote": "السابع · 16 نقطة"
+ },
+ "updatedLabel": "الاتنين 9:01 ص"
+}
